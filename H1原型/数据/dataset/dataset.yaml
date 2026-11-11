@@ -1,0 +1,15 @@
+dataset_name: bottlecap_defect_teaching_synthetic
+version: '1.0'
+image_size: [512, 512]
+image_format: PNG
+total_images: 240
+splits:
+  train: 160
+  val: 40
+  test: 40
+classes:
+  0: {name: normal, cn: 正常}
+  1: {name: notch, cn: 缺口}
+  2: {name: scratch, cn: 划痕}
+  3: {name: stain, cn: 污渍}
+notice: 教学用程序合成数据，不代表真实工业检测性能。

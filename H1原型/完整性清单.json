@@ -1,0 +1,1779 @@
+{
+  "schema": 1,
+  "project": "H1原型",
+  "generated_at": "2026-11-11 21:59:15",
+  "source_base": "",
+  "cache_zip": "../支持文件/安装缓存/H1原型资源.zip",
+  "files": [
+    {
+      "path": "core/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mutable": false
+    },
+    {
+      "path": "core/anomaly.py",
+      "size": 4646,
+      "sha256": "e34b379228ca52bb6485dae2c225d6f9c5a077b441a02d1d6e6e564e206f3714",
+      "mutable": false
+    },
+    {
+      "path": "core/classifier.py",
+      "size": 16017,
+      "sha256": "0e04bb78d6fc48f5dd159ed6534aedecdf83e18e401893634af1e940c4132c4a",
+      "mutable": false
+    },
+    {
+      "path": "core/config.py",
+      "size": 2973,
+      "sha256": "9c6a019aca86422d227a78144f15bd4408042c2336c5b8c5d091bf46b114bcfe",
+      "mutable": false
+    },
+    {
+      "path": "core/decision.py",
+      "size": 3323,
+      "sha256": "766e02b68985adfb17bf379377a407d63c6020ca312060dfaa4e25b9dda0f668",
+      "mutable": false
+    },
+    {
+      "path": "core/deep_model.py",
+      "size": 7353,
+      "sha256": "de7f970f5788ebe7901d90f6cb23dd9c146abfc61ec5455aaee9e1ff6736005a",
+      "mutable": false
+    },
+    {
+      "path": "core/features.py",
+      "size": 18078,
+      "sha256": "458d28e49955fe391375d5bd847e78b12e978c26e29479854c65e0a79a818b68",
+      "mutable": false
+    },
+    {
+      "path": "core/fusion.py",
+      "size": 12846,
+      "sha256": "f265d5a51095a0397d9d6d97eaad476fdeca76ed98675b840348349fdd28e56e",
+      "mutable": false
+    },
+    {
+      "path": "core/pipeline.py",
+      "size": 16834,
+      "sha256": "ea37582098471326570e640f3f8506a356fd58b1e92c5a943859147e5935f703",
+      "mutable": false
+    },
+    {
+      "path": "core/quality.py",
+      "size": 3828,
+      "sha256": "efe8c04b8c0c852503a8b88b8d90da2663154be110ec988bb49e7703e0b86860",
+      "mutable": false
+    },
+    {
+      "path": "core/types.py",
+      "size": 2954,
+      "sha256": "6f11da079893453d313dad8c028e681e61dff1b2cc4e73254992193fd21a9eb3",
+      "mutable": false
+    },
+    {
+      "path": "devices/__init__.py",
+      "size": 933,
+      "sha256": "4aeefe2aebcb83a7d27224bcb94528f8cad2c58216efd35887bad18a216f94de",
+      "mutable": false
+    },
+    {
+      "path": "devices/actuators.py",
+      "size": 8284,
+      "sha256": "f731ec0dc6ddd095ba210ab5733a2887da9d6f55107bfc994d8d4e5674f9f819",
+      "mutable": false
+    },
+    {
+      "path": "devices/base.py",
+      "size": 8641,
+      "sha256": "88cd022eec52668f462de5829d2d0f78aae4d3fe4f86d196872fb67fbe976de4",
+      "mutable": false
+    },
+    {
+      "path": "devices/sim.py",
+      "size": 4221,
+      "sha256": "21734a188879c0d5f5a6d99649742cb7639a7728d189f04616300fa27c5f0eb8",
+      "mutable": false
+    },
+    {
+      "path": "devices/sources.py",
+      "size": 6498,
+      "sha256": "11b53df5d69c08fdcc8e2e24be44e1bcdcc7c9c17ca299b97d89368741002dc8",
+      "mutable": false
+    },
+    {
+      "path": "ui/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mutable": false
+    },
+    {
+      "path": "ui/app.py",
+      "size": 53263,
+      "sha256": "27a1dd8aa19fe4fbd4d7305469dc41e7c5a144d5eb88bfc3d3d563659221f7be",
+      "mutable": false
+    },
+    {
+      "path": "工具/demo_run.py",
+      "size": 7415,
+      "sha256": "967bfddce8894d5925043691148df252a6483d4836dc3ac5b88e01f58ed3c325",
+      "mutable": true
+    },
+    {
+      "path": "工具/eval_fusion.py",
+      "size": 6392,
+      "sha256": "5590a0f6d39b0001d5369c1915780c0f39e94214ba59e10ea48e8c2d7e1aa90c",
+      "mutable": true
+    },
+    {
+      "path": "工具/export_val.py",
+      "size": 5332,
+      "sha256": "c14bcf46de808e0d9c27c0c67d7e86f03b3b40ad94890e61d70815521e1aa3d3",
+      "mutable": true
+    },
+    {
+      "path": "工具/fetch_wheels.py",
+      "size": 4641,
+      "sha256": "4a884799eb0acfbe478d61261b8e69c3831559a0a3b9ec26b54de0bdb7dfd456",
+      "mutable": true
+    },
+    {
+      "path": "工具/snap_gui.py",
+      "size": 2496,
+      "sha256": "7ab0ef179a7f6b2d6ab11eb7c26d2e3ad8a63e1beca93c500a2a7b0ff60c1ab2",
+      "mutable": true
+    },
+    {
+      "path": "工具/生成完整性清单.py",
+      "size": 5801,
+      "sha256": "2651799a1d95ac15f1c311822f852f7ea72e0f6da0945b85a986128039a394e1",
+      "mutable": true
+    },
+    {
+      "path": "测试/test_core.py",
+      "size": 6785,
+      "sha256": "298e0281c84ce6254c5f12031f2b6f0c4a90c7a81fa4bdf362a1749517ad02c0",
+      "mutable": true
+    },
+    {
+      "path": "文档/交接_报告PPT视频.md",
+      "size": 13399,
+      "sha256": "86a73ea83bdb0e34f17a056894613fd386c83159e662828512b9d9a634b404b3",
+      "mutable": true
+    },
+    {
+      "path": "文档/接口文档.md",
+      "size": 18385,
+      "sha256": "579ca300acc7008adfe46f1cdeca2d5937676c203f635dedd912093897e000da",
+      "mutable": true
+    },
+    {
+      "path": "文档/模型方案总结.md",
+      "size": 13412,
+      "sha256": "95eab4e79305031131487e017f4f27cf933de21ec33ca0b41346a3be8f3d56d1",
+      "mutable": true
+    },
+    {
+      "path": "文档/环境与离线安装.md",
+      "size": 8540,
+      "sha256": "e09efc2e3dc03afb8e2af5fd28d8771931cd9cf45a53b4d765f634fc4b2f0a23",
+      "mutable": true
+    },
+    {
+      "path": "模型/baseline.json",
+      "size": 446,
+      "sha256": "69ce81fd49e7255fc7ad41ccfe7acd8f37b73a90fcc31395c1e1d1fc457673ce",
+      "mutable": false
+    },
+    {
+      "path": "模型/classifier.json",
+      "size": 1477,
+      "sha256": "c63fe932d18e91e159b2a767dfe81d03c38ae20aea643443bc1c18a5d569a855",
+      "mutable": false
+    },
+    {
+      "path": "模型/model.pth",
+      "size": 6221847,
+      "sha256": "8ca8265ea51e22a4747cac5316cbd370dc26b7bf058377fdcffdf59b0008e0cd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/dataset.yaml",
+      "size": 392,
+      "sha256": "aeedbdd02a5fdf91774551df01a1a11d0a0b1e2fff94fd619986007afd939521",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/examples/01_读取与查看图片.py",
+      "size": 1203,
+      "sha256": "7f01be38d9a493eec905df81732afd53a1c6254b1df3572861007fa34a2b3e3f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/examples/02_规则检测入门示例.py",
+      "size": 1100,
+      "sha256": "745abb48a16aa01249f49bc9e8e6d416e20623000cc601f3bf6f8de4937bd40b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_001.png",
+      "size": 176879,
+      "sha256": "b5b888ec41bb1cc42dda645ea74e1dc1c51092803804ade47d58a5d90852dbbc",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_002.png",
+      "size": 175684,
+      "sha256": "3e1977db06243098de82fb14e33cb8cfc75a0ec1227b31db7cd1af4b27b3fab1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_003.png",
+      "size": 172025,
+      "sha256": "4294d2930458c478af5bc9276e75458bf9b2cdb78c9ce1c2965455701b4029be",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_004.png",
+      "size": 201220,
+      "sha256": "59de9b4462091519edabceab6b3a316918900f1964c64b4771b428b9c7437d4d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_005.png",
+      "size": 181552,
+      "sha256": "60ec749c178215850ae8bdab30e0318c7dcc5fe5f3553689451343db00fcc766",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_006.png",
+      "size": 192462,
+      "sha256": "62edbef07f0fca2537eb3edf36c9f8a894bbc33aed2222637e1d9ee289fcafb5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_007.png",
+      "size": 187624,
+      "sha256": "a731ba9eac1151d966704d537b3be5c08598b65ee555ddb47c3a31ad7b0c5270",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_008.png",
+      "size": 198239,
+      "sha256": "51c904b4456ec460d6619d48b4e905be10f7d7def88b7c69f1d4d8386d15d1c5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_009.png",
+      "size": 172137,
+      "sha256": "7722b724d8af07b6c4605e99dc1d380e8a9812c689b667d48a7af53f3bb26369",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_010.png",
+      "size": 199530,
+      "sha256": "096b0b00e985dca6cb301b05cbf02d2ade8102ad1c5bdf8a5a01e3c60bcbd02c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_011.png",
+      "size": 172223,
+      "sha256": "deabcb5f20441c6cc1f7ec79f41d86cca60a964f767d00005550fb18c97ce135",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_012.png",
+      "size": 196010,
+      "sha256": "ea9141bb03f7bffadd5dc260c37cff89a01086c1056b51e8b51a34db38fe1630",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_013.png",
+      "size": 190299,
+      "sha256": "229cc0dce28ecf6fde835f311eb101a41347639a0c8d5e6067d1ac38d55426f9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_014.png",
+      "size": 172471,
+      "sha256": "a1e8d27f05a3b2b9b27fb783a0e8ad32df117262f5fa040ae38d595d2512a378",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_015.png",
+      "size": 197609,
+      "sha256": "8e47e2d9d75810a53ef7ba1a89cce014bdb6f6549621758be00b746a507aea4f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_016.png",
+      "size": 169883,
+      "sha256": "fef82317c6f015419a0a6a85c7083f472d9a51a53b377871e9f4fe54baa9d0e7",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_017.png",
+      "size": 169938,
+      "sha256": "2457289e873f6b1f0b1b4f7b8b2c4ee839b18e50830f976e3c4df95149e5abbd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_018.png",
+      "size": 169922,
+      "sha256": "8f3973aece4eeb2f45146b953142c7013c234f70ae5a8ca6b92b300485953028",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_019.png",
+      "size": 175415,
+      "sha256": "5da5a577166511d97d58446f01cdfe9ed08b96460feab38a05ed4f11d7628e20",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_020.png",
+      "size": 170427,
+      "sha256": "c8a1eb5499c2ee73ba4a258d1e6cc1c726830ac73925bf9b5a9a20499965d7b7",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_021.png",
+      "size": 192299,
+      "sha256": "30eab74df6647cc70ed3d18fccf732b0fafcc37e47c78e05a9ce2b7352f95167",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_022.png",
+      "size": 170983,
+      "sha256": "16d0c13313c2e9f2ddc7bbf1ab43df8fc4bcda47653342be24c702f3c1731da1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_023.png",
+      "size": 190958,
+      "sha256": "272b16b72f9a926a3335754f354b69ea13e12e7bc3cfd081b07f012e37b08561",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_024.png",
+      "size": 187985,
+      "sha256": "78b08054549996b62e68fd43aa67f1e6cc23e33995a9fa247910befb9502b02e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_025.png",
+      "size": 203630,
+      "sha256": "8dc2d3387e89b5a4c3ed36e3a9736a4497e66f9c5f023ab80528698bf908547a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_026.png",
+      "size": 177848,
+      "sha256": "a77e9cc8a419aa266cb0b0ed2a3276a0bd759f785796e068ac7a6b1510e8e854",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_027.png",
+      "size": 172385,
+      "sha256": "1ccaf21a155dfac412fe4b620bb37d5fb2ee758cb966ed696975feb019f9225d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_028.png",
+      "size": 173129,
+      "sha256": "d5e72ad4efd319602ffa0750bebced7cb61fd51349f0e9511620b3c9f54cd3c9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_029.png",
+      "size": 171189,
+      "sha256": "cfcb0e69c7a30ca30f4d09d7a65116a1accd739d841af4d1102d1c9470f8afca",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_030.png",
+      "size": 204715,
+      "sha256": "018db2d0a063ed091bc1c67bf851eba696c171774d5335c5a85ff121a458b711",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_031.png",
+      "size": 194221,
+      "sha256": "77428ff1b859ae6226b5e263b28c4e13a4df9bdf0017953065a9b00a22b049aa",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_032.png",
+      "size": 198747,
+      "sha256": "5294ec786d848791a1c411011766d25749f4318b643b66585f1675aad95984f1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_033.png",
+      "size": 195260,
+      "sha256": "8130159d8bb0373861b95f1d75fd32a08cce43d39257883ab686fa0d9b71be15",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_034.png",
+      "size": 175407,
+      "sha256": "5317477d16667f97824c071aa24701d4a4edce949a95a37ee547a7a9f0099c68",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_035.png",
+      "size": 184811,
+      "sha256": "37a834dab588e23c457906ebccdc80aa0bc3aa1542b22950f8b040f3cc718c69",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_036.png",
+      "size": 208646,
+      "sha256": "2fde785ae754e91da8014dd175629859709c0579ddef2c2a52efe9234af5e94d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_037.png",
+      "size": 205254,
+      "sha256": "d874528ca5f6b1439caf5685274c68cf4f057679a4e4984867d0a38e34332edf",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_038.png",
+      "size": 175185,
+      "sha256": "25646dd4ade1239471faa7bbbd5b0a29df6746a3f79837d1fcfa0a2851a040b2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_039.png",
+      "size": 186471,
+      "sha256": "d9398708e15a635a43ef436933fb1844bf539c8f42dc0c2aabb07c3c13a07a7b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/test_unlabeled/test_040.png",
+      "size": 181074,
+      "sha256": "c34120f49a3d91536fb04a51854dd1574a9cceb0ce021db86cf01b7fd91f9b5f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_001.png",
+      "size": 171777,
+      "sha256": "10c0e8ba0d6f90f6de3470afe531a3ad8a4deacb91ff37d7577adabdd3bf82ae",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_002.png",
+      "size": 200833,
+      "sha256": "83a31c2401719c15e9673f0cb4872c600520b5b18b6f4e96dfcdc4dc10e5473e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_003.png",
+      "size": 191563,
+      "sha256": "fa3846ae08ae3980f46aef0694b5b47549504fd82a95e9fb305d20f40284ea61",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_004.png",
+      "size": 200396,
+      "sha256": "ad5980992db3f1151870f2adda233fc7b45458755cd74d9de3f23f630ae7f1f2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_005.png",
+      "size": 185137,
+      "sha256": "1422c06544933604fb214c1851d33dda8c4238cb0d392c163571a5bee4fc897c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_006.png",
+      "size": 191735,
+      "sha256": "19e06b033fac6e5b3fc285545065bc61d25ae2d27f9717fe36bb11c3959a9c3a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_007.png",
+      "size": 190179,
+      "sha256": "3c69a1da9bf2180712d081ea3feff371b0792783f915fd148e73c9030cc52d0f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_008.png",
+      "size": 194362,
+      "sha256": "02150320141b9411b6ab1e643a6665be70c1fc9e6acc3f1b6772410ec50f4ce1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_009.png",
+      "size": 170508,
+      "sha256": "1df985f126e3f7042200d2a06073a39a9cbe601df333c8618ac1ea65f73d30a0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_010.png",
+      "size": 171053,
+      "sha256": "fd7543cd96759dfd412140041600913055ff1c2043633d80b3fba4b32e526e45",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_011.png",
+      "size": 170480,
+      "sha256": "576caef359b066965560d7c58dbb4fb2deef527119a20d1af44fbecacf577e57",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_012.png",
+      "size": 183368,
+      "sha256": "d2d9928ce0733191b63ab703363f78069119b9cc78da8c41d56ceb8314c0d662",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_013.png",
+      "size": 171331,
+      "sha256": "84ddb1c944ab1878b7b96ec47aea0c6badafd8dfc5b347ff4e85b1ce0ec4e498",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_014.png",
+      "size": 171433,
+      "sha256": "7056d7757a9e98b953d4cbcc0bad260cc2c12d6b355fc1042dda4ae2e3d1c39c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_015.png",
+      "size": 199357,
+      "sha256": "25d8eeee349deddf2942fd8b3bfb8f77a9152d7b80801ed694a4e35223b82bf9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_016.png",
+      "size": 186642,
+      "sha256": "00716f89bce8ff00d85f1f06b6a54991df135a56fe03db84522d2ceba61d05a1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_017.png",
+      "size": 176959,
+      "sha256": "4617bbae02b6f742769768167c2bcbdeec7d8c42c641cb9de6fe0345cf2cd823",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_018.png",
+      "size": 201214,
+      "sha256": "0b3c5646dd7915057013eff860ac366736e47be571bd56830d60a133626a60fc",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_019.png",
+      "size": 199840,
+      "sha256": "0994c822c2954356392ce57c08c8382f0a18a2ed355be97be163bd8141fc5709",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_020.png",
+      "size": 173905,
+      "sha256": "d88c29f743435d2e60d10ac98dae83509bfb3c346bcdfd24de5cde98af9e77f3",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_021.png",
+      "size": 184418,
+      "sha256": "996a5898418abc3a7d93e7f56b0f18426e3f13d6f1b69e408992ad07ed13ceef",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_022.png",
+      "size": 185384,
+      "sha256": "7c1b26efa7c6c4d9b0b27259ea78759821c606004d447c20218933f1393b0bfb",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_023.png",
+      "size": 170762,
+      "sha256": "44aa53f128b67d4a10a9152b8ff2993ec6e33a28c97373f4bb5b03786757e65c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_024.png",
+      "size": 170943,
+      "sha256": "aeb505a7f70ef3863fc4cb972cfb1dec2618fdca698f77e4e0c604e510c2d15b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_025.png",
+      "size": 199103,
+      "sha256": "bb4ad2d63968d318b1030ed9e5f5aa7f9e1305ae3ee79a73db23f9f49e402abf",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_026.png",
+      "size": 170344,
+      "sha256": "fd8bb4389a52cda2e9cea77e1da2858b0dca108d93e20604ef06a3c335c5e683",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_027.png",
+      "size": 199573,
+      "sha256": "f86b474d892ba7addc08acc22ad2f1654351e6f03dfe1b431196c1e66823325a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_028.png",
+      "size": 193973,
+      "sha256": "becb587d5c2c3443a8d72923284adf7e571a43aca15aad49e5b9a92735ebe6ce",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_029.png",
+      "size": 198908,
+      "sha256": "3fbee47af5685c1cc57508cb7ba530b4f609aa2d71f1dc00c592b908abafc14c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_030.png",
+      "size": 170454,
+      "sha256": "48d034e277b9d68c134aadd24f210132a62496e85da8302d0d9c46e0af8f88ac",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_031.png",
+      "size": 194927,
+      "sha256": "f9809dc3299bbbfe8109278c099847eac701e54473519b06ce7f73cb5b7f6f20",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_032.png",
+      "size": 170939,
+      "sha256": "92aa2c22efcccb94b9c2b3baa4d8ce58f48fa1e9ded4425726332439041112da",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_033.png",
+      "size": 174475,
+      "sha256": "f2ace7eded560f5e5763d1c1af7c0c1cf267fd62039a5afefcbe5b8e23c88f84",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_034.png",
+      "size": 189388,
+      "sha256": "d7920c236b40c816d005d869ad2d806c5b47dba7b398e6a6c4d49b6c012a5f4d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_035.png",
+      "size": 169967,
+      "sha256": "61916abaf47c3f6b754a7b88494ee76dd6300947abb0928212a5cf957573936f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_036.png",
+      "size": 170470,
+      "sha256": "127b7aaea3e97eb50669e22adb81f13a49825273521bf006b115e59c6e7fb31e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_037.png",
+      "size": 170545,
+      "sha256": "bb1e747a4aab280b46dbd71080dd56ffb6656bc7265fb65c2868550a1ed52c26",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_038.png",
+      "size": 185523,
+      "sha256": "d13171264c9fdf4c0c3032e9906d7f0ff0be1c18012bf002c6eaff8697ac6f7d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_039.png",
+      "size": 189514,
+      "sha256": "a0695c57588b282717cae403982fdd7a2c35aacf4f4b2c2e52a31b2c0105df10",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/normal/img_0_040.png",
+      "size": 171075,
+      "sha256": "7b27b142af77f4a1826861702ce0bd6e104c1b91965154b7008a8cbed6d09def",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_001.png",
+      "size": 170746,
+      "sha256": "be75506f04b8ad77cb98831187797864e54a32ae9648b0516843c9e2fbcbdfd4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_002.png",
+      "size": 191549,
+      "sha256": "021dc4fa231ed32cb472a8cffaf8c04ed13269ed2921f59f3e7c657142d37ac2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_003.png",
+      "size": 202274,
+      "sha256": "1941c63ed7aa8021bc9907569d3c4151661000cc2cb8cf289d4294121e2f46c6",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_004.png",
+      "size": 195818,
+      "sha256": "016e8111146209231219a6bd80276cadda545516106f8ecc167d086d261f3fd8",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_005.png",
+      "size": 188439,
+      "sha256": "cc49c957761b4120eea121f4b9a03e75b20b76ed77d6f3932d39420ebe21ee4f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_006.png",
+      "size": 189704,
+      "sha256": "0973446e5970c722578cbf20d408528762574e0144293d4c53dacc4e4eda9e33",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_007.png",
+      "size": 192418,
+      "sha256": "21ad48dbde56d43a192efb3d49f4278e28478f96e849c244cc5cb4d886b171f5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_008.png",
+      "size": 189094,
+      "sha256": "23c19604dcb876e45a2b0c5e2799ed8ce4046a45e2ad59b2e4d84ccc417975b9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_009.png",
+      "size": 196134,
+      "sha256": "99490b236f5c580d5b73d078d06768a79bf2b57f938080ed54b5da360894e2dd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_010.png",
+      "size": 171863,
+      "sha256": "96eb2bdf29e9954245aeb7d1dee9859dcc694fa8b17a94d2d11e2d41a2eaaf1f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_011.png",
+      "size": 177784,
+      "sha256": "27d5b24ba64f72be703b9f1aefb48fdee0079baa7e156acdcbeb226c07db5d92",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_012.png",
+      "size": 170591,
+      "sha256": "fa122eac1568293cf3c6a595817eab5b4a7af9d65b18e82a26c1aefd7e46d315",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_013.png",
+      "size": 197827,
+      "sha256": "bf281b88c6790f1e034c3698afceec46688da5165ad4502b21d0630d42e20926",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_014.png",
+      "size": 188233,
+      "sha256": "a70eb52b7c7c0ce1d6425406877f34d9a82b700f4949f62f06e4297b7ca4233c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_015.png",
+      "size": 197791,
+      "sha256": "78d4b5f78f0004fa604b81fa38d4d61c775bdd8cf450c74dcd64433183d275c5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_016.png",
+      "size": 170704,
+      "sha256": "565543888d0589bcc40ee271b4a4a7042ddb99b9f8fc92e761bf93a16ad93d5f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_017.png",
+      "size": 189351,
+      "sha256": "667536a1dd1e0e077e86d4fc26c0dea3a93ca63619ffdd4dddce8e6e47500396",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_018.png",
+      "size": 197809,
+      "sha256": "0d4ccde6b3c3420c63400e49ca9d07d470735ef94f1d3b928a3d55f68b8b79d7",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_019.png",
+      "size": 195379,
+      "sha256": "65bc4591b9df8559f62f27b03638acded5634505ff381bb954c90d1ad4e2fe9d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_020.png",
+      "size": 183191,
+      "sha256": "be7686970e92bd50ecb6bbe0e0f87a2008a395d91ed37a269e069f5bd93286f1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_021.png",
+      "size": 188552,
+      "sha256": "23e31f22731714fc741650a5814e78824792ebe75440923c82687471cebc11bd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_022.png",
+      "size": 195850,
+      "sha256": "1664c501e43de171034e76565cf3c2eda2bf5fa272b6e184356a742e871c9079",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_023.png",
+      "size": 174971,
+      "sha256": "2b6370eb96653c2b2976b7430a0b37d571c6dfd8da18d241cfdb882694e380b1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_024.png",
+      "size": 194149,
+      "sha256": "5a5a4b4120e2970cc17741008f2036c43aa7aa731772022b4c9233ba0e894907",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_025.png",
+      "size": 194264,
+      "sha256": "b3c45b1807c580babfa0f8b0a17dad185131856f2eba078d36e7e75b1c6feba7",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_026.png",
+      "size": 189024,
+      "sha256": "99e557191605d0f093799eedb6670d2424cd624a262825c689ce6ac346df4838",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_027.png",
+      "size": 170217,
+      "sha256": "095653a04b262825e577e4ccf4733b6bd80ee2b5c6f88dd06839d138fb519576",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_028.png",
+      "size": 170092,
+      "sha256": "aa80410861244fa18c82036793f23f04866c4716aad5b433dc439409daa143dd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_029.png",
+      "size": 178346,
+      "sha256": "80be4275bd2a4d6d96a712b998c6924749956b51325a8c591f9f556c082c4e61",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_030.png",
+      "size": 197402,
+      "sha256": "39bf71ae5e535ea63ba8db4f445f3811a6041d9bdb4182b5f46bb41920cfae4f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_031.png",
+      "size": 169837,
+      "sha256": "dbd276ee4d8cd36d5839496ed3a0077d4720eb618d5b7bb61e6d4f2fa9a7bba0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_032.png",
+      "size": 196983,
+      "sha256": "9eb10d1affa0a2cf7676bd01722b91fe805936c2789d7d5224ba81058b68bea1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_033.png",
+      "size": 199206,
+      "sha256": "6907868cff2db033a4969bcc9918b18f7860341e539b7bc34a433b10624afe91",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_034.png",
+      "size": 173431,
+      "sha256": "d5020428cf49d33c9b88ea4048f10c49b43d3b9648e65de27a64f30ee0320279",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_035.png",
+      "size": 174128,
+      "sha256": "8ae0785c7eb5d8b7299fb89623f8f8e7308229eb13fdac99cae4e03bfde9b910",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_036.png",
+      "size": 201001,
+      "sha256": "e020e4d957366d72678f41f97829790c0b4af0055fa95c95104ba85251f2b4df",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_037.png",
+      "size": 193759,
+      "sha256": "22a72aecaed1d1f0af9e6a742f32adf67ebba291e32988b9459b2465e731258c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_038.png",
+      "size": 188255,
+      "sha256": "0007ade558c34e3c564ae1ad276913e42e267fc354e31233c4a5606f7f12f06e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_039.png",
+      "size": 190341,
+      "sha256": "4e5ea5c742d5559d4fdba56503808ced7561f7efd37fce76c80e4cfa0a8529d9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/notch/img_1_040.png",
+      "size": 171375,
+      "sha256": "27f14ae38978d472ab517be41dbba148cf7752822b422fd766a4cc5705ae7359",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_001.png",
+      "size": 170903,
+      "sha256": "96e4522d806368d65a363caebd30d1da8b2d35d66f279e49ed9f741433be8697",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_002.png",
+      "size": 190453,
+      "sha256": "4f7bfbc9e4387908131e7fcc3417db16bbf57b8d7963f849979711aabd3866c5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_003.png",
+      "size": 174559,
+      "sha256": "c6ab7a873738d344b90b36f122f8c1def1fc4caa17b621d50d0e05b351e59d39",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_004.png",
+      "size": 198390,
+      "sha256": "44ad61bcace346709e88b059b707ed507b62eb14cc4932962b22d20066fc2cb0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_005.png",
+      "size": 198233,
+      "sha256": "a88f885f70ea782f73f45470ba4ac39422bde62258515ef72f555ab0b8c71ec3",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_006.png",
+      "size": 174360,
+      "sha256": "5baa8c6264ccd6584e9c9b428b6f03fb7f9a554e7e936d1877f6a381c0f3d40d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_007.png",
+      "size": 197384,
+      "sha256": "410ccf72c01a0153c5063ae6cef70ae87267e67486958fcaac2ef14a297828ac",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_008.png",
+      "size": 186569,
+      "sha256": "53fd96556795ca691def237548cd798c97cf88007ad6a91237a4d8eae0d44d7b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_009.png",
+      "size": 198498,
+      "sha256": "f3911790ca40d4e57c458d3cae2eca2bdc2d67e5fdd38c095f1a544dbee68a62",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_010.png",
+      "size": 190954,
+      "sha256": "32b6abbc9b8c71e17c0dc57d7b9755c0dae21e6c1566547bd32149fb3bd899bf",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_011.png",
+      "size": 181091,
+      "sha256": "ba4de3d444e609c3a2e4f094e3ed9ee867dc65a6076e8657851c2e57c42407be",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_012.png",
+      "size": 202263,
+      "sha256": "5d6fdd4fc2189e0964e051c5ca271eeaf5425df26efbe51a9620c6ed223ed9e1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_013.png",
+      "size": 192067,
+      "sha256": "a6ba4993389b365bb711597c3dd3319a3c9b01101e10ce6edccac866a1823bf6",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_014.png",
+      "size": 195724,
+      "sha256": "a2e7b935f83b6e1dc8225ee1c6a4d7843b7806a9f76fdd737e4bc64ade2f6366",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_015.png",
+      "size": 202789,
+      "sha256": "40de0feb7ee05a22a84e64ac8ea3f63ff3534d699a026b9aa596333652bba940",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_016.png",
+      "size": 181095,
+      "sha256": "ec269b0835774852512c2da6362c1c23df25f60881f89551264b67f81b47b37f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_017.png",
+      "size": 173716,
+      "sha256": "220606cae065181085fc5a3eb202174922b747c37a519c2813f0af64ebb540f3",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_018.png",
+      "size": 172728,
+      "sha256": "f1eeb561c5911a55e95b859e789e8e214cee580f95e1b2e385b3bba09b4c9def",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_019.png",
+      "size": 200431,
+      "sha256": "d827fad151ea324145e300a6c99c418c88ec28cb5e5d56f0110c77762bfd1916",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_020.png",
+      "size": 173246,
+      "sha256": "afde82cb3fcfd53ba53591fd597bd8cfa31992632b0614da3c25b9081d4057b0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_021.png",
+      "size": 202195,
+      "sha256": "6dcf6d94ddc067080f8224e5e5e52b7a63aa7efae301edb01c22175eccbd89d8",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_022.png",
+      "size": 192182,
+      "sha256": "0f570d39a67177fbb090fb8419ede3b4e3f07efda68caf7b1dd8e1f2362d5b82",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_023.png",
+      "size": 188577,
+      "sha256": "cab8460d3b3052494f667d4fcbdbc02f373b1722c9f3fa854629b9ca2ed60467",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_024.png",
+      "size": 201695,
+      "sha256": "ef08de6bd919ae0077fa0a90286f353e227722c9d204afe28e32d36c38c1e40f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_025.png",
+      "size": 186046,
+      "sha256": "4ed9f67a9497bf83e2d8877e1414f9f1ecbbbf1bfb0cd3ad2d6e2fd111a90b9c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_026.png",
+      "size": 200940,
+      "sha256": "0f5f334d2256b647dcf53b832fa39f226bdccfa0070c49e9f5f5eb8876be76ff",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_027.png",
+      "size": 179050,
+      "sha256": "3b11e97a4603ef5f9abad8e9d4584da79ec48e9dc611580b169b6e3a753016c4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_028.png",
+      "size": 177854,
+      "sha256": "06926603efe6dbd6a6c8eb97104539e38a3f0ab943455468250de93b9b3237f1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_029.png",
+      "size": 206109,
+      "sha256": "f2f56dda2ef8a07725cb8e04aedbc5e53ad338c1eded60c464fc17b14404a962",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_030.png",
+      "size": 202382,
+      "sha256": "84a7ca3c71c62a357586da7e4a61c53010722e0815a8dcd8db720bd89f01fef6",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_031.png",
+      "size": 194782,
+      "sha256": "2acec815b40406fecc57b416dba3b49e027aa6bec7190336667fe5c8ba711496",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_032.png",
+      "size": 198614,
+      "sha256": "d623a7b49e831b81d4b944a2a851b41dafd64be7c36aa6700b89f2b6e4cbd290",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_033.png",
+      "size": 199152,
+      "sha256": "0264adff970795ca07608a8bfd6b778c02d917f9270518cc8c2e30e931468d0a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_034.png",
+      "size": 176116,
+      "sha256": "c10781e3ae2697c974521a9db31919763650fe255b6a367d943bfe618aa4db83",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_035.png",
+      "size": 186569,
+      "sha256": "88e671298f8874a27815cd645091e6b8c55eb9867f5826d263a616b3afbcf7f5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_036.png",
+      "size": 192424,
+      "sha256": "3bb571d78dcb56be7773210318fda0f3316434e1988fed7cc79e68cd73f3c950",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_037.png",
+      "size": 204586,
+      "sha256": "2c0893bd71dcb0f549b417814b5a66c586b3ff4246ba71b1c1f438cf60463045",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_038.png",
+      "size": 181667,
+      "sha256": "79486a480e778c2031f8040e09edc5bf60bd141ef2de5673eb6b1c26eb8b89e8",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_039.png",
+      "size": 204372,
+      "sha256": "2a1337f69640962eb86fbac0bbc10fb38cd0e36e133b6034024343ddde992567",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/scratch/img_2_040.png",
+      "size": 173569,
+      "sha256": "28b88ebf8b3e75783b57405b6fdb0d6aee05858ac66f20defa57444576cd6640",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_001.png",
+      "size": 189981,
+      "sha256": "51d640ae7f4325229709a34db30ae68d438f00df7c20db29bf648afb9753342d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_002.png",
+      "size": 191830,
+      "sha256": "f5691b1a706232f4509cf3cf1b33013619839a8d019b89f2c467d9b7e12b46aa",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_003.png",
+      "size": 182819,
+      "sha256": "96035a6c8957e9465e5937f90132c1f6cdff21dca276cbb6fecf8f3ba3f01c28",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_004.png",
+      "size": 207810,
+      "sha256": "d850a89a4ade7fcc8f023534ae0f024ba34d8a053fee3bc41acdb8555039ee9f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_005.png",
+      "size": 204898,
+      "sha256": "d6231ce8d6a2e6a4e650b773b6aa6b0ef66139fdca2fb85d1d8d47f5a212f615",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_006.png",
+      "size": 190254,
+      "sha256": "651106796fa5546b14ba74c3f0c670c187c7d8fbbb2c908dd6b07dd0c75295e0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_007.png",
+      "size": 203127,
+      "sha256": "0cc07d8e442f810b144fb05fb2bf517bee823d4bdae666da06703cb6346e43db",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_008.png",
+      "size": 198648,
+      "sha256": "18b188e3067308de84680e9905beb3afe7c3efd99bb5d4d60e1a81f625665bb8",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_009.png",
+      "size": 203451,
+      "sha256": "e583c48b072a5d255b5128266c79afc15fa91b9b195b2d6759174bb837f97c83",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_010.png",
+      "size": 175712,
+      "sha256": "5ea48313fb9cc34d7eeba06363ad509ad33748ca9898c7058cb634b1a5b23d01",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_011.png",
+      "size": 177638,
+      "sha256": "b3fa9f719bf56467919c20f11378e92a3d970b9e1aace1295a22221372d5ba9a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_012.png",
+      "size": 207474,
+      "sha256": "9577bcc095398a66c44cd009d2e563cbf7dfe7a0a69a4cad8a434f33c84aee11",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_013.png",
+      "size": 181421,
+      "sha256": "5d6011830640ec44b7996d96b80a17dfea2f99da418fb52d0c7c2fd80029f6c2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_014.png",
+      "size": 193432,
+      "sha256": "33f80703a12b734f8bd69b69b361fdce6ebb2bc73d9122e0ce8150ca5f883d80",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_015.png",
+      "size": 174475,
+      "sha256": "8130a3a4e1151528d5d98bf50970413e5771f6f347901782d5bdd836b2015dc4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_016.png",
+      "size": 187714,
+      "sha256": "c1ca21baead69b2ec565c943925c42e243ab745547d5e0e7e1eee9190f2853f8",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_017.png",
+      "size": 201832,
+      "sha256": "8372079825061962a30d4b2ce15875359e7d2fb74cdeba784c4466ae78a9c044",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_018.png",
+      "size": 173964,
+      "sha256": "e915d3062976736788afcfaefff1f7d6bff4a1c9f0e0e86962a538f6690a088b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_019.png",
+      "size": 187907,
+      "sha256": "e48bf3d31e63343292b12ecc928474f43e55e19572bc18b4080ae163eda2e9a2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_020.png",
+      "size": 193733,
+      "sha256": "878448ddf824869395ce49893d33f8bc089189ad8e92618e2b183b83f9fa1264",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_021.png",
+      "size": 181985,
+      "sha256": "78a19e59dc9858f51c84b1b3c45a5ced6882abd22f79d7ca133a3f66a50c1f57",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_022.png",
+      "size": 182705,
+      "sha256": "d3651e35372715bd204124814680caf061159a7365001a380dcc6dc6aca35f6a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_023.png",
+      "size": 203153,
+      "sha256": "d62d8d0547daa78195e28d31b5450055fa5dde50c935c447802391bb4d7a5923",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_024.png",
+      "size": 179612,
+      "sha256": "02e06b3fc8e7460583a77c498ee73ca6605ab1fb94714c25442c3df425d4e805",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_025.png",
+      "size": 174636,
+      "sha256": "6cb98796536dad0be0be50a099ee3afeed2050be5c04fd3731f8b16fa00d81c3",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_026.png",
+      "size": 179138,
+      "sha256": "aab3ab446fe46c8ef1bb0139da668ebb9fb87cd18cd6d6c6fb62b47978346f81",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_027.png",
+      "size": 182270,
+      "sha256": "20567eab8fc559fca244d2995826afc2b1c0da2df07c99f8ebd229c29b501114",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_028.png",
+      "size": 196073,
+      "sha256": "96cdb57c7d2e7c8e4ad5d08ac10e6810a531ff18db0ab9568350592ac074441a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_029.png",
+      "size": 202577,
+      "sha256": "9e67431c227182f0deae5da619af86b8a4c44e06224f728c728bcb8b81706856",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_030.png",
+      "size": 211788,
+      "sha256": "551c5f380b9cb559575f3abd7c49dde9e0e7cefec32d9595f5d39c3f9a5170f5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_031.png",
+      "size": 175734,
+      "sha256": "bd55dde451a0042bdcfd2d63e5b320f4d3723a8c68e26e09fea93aa3aeac3905",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_032.png",
+      "size": 174384,
+      "sha256": "7a3e0ec2b4ab1d7deb42be10a35f153a0d472ec43d32f4d5d3576705ce646cf1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_033.png",
+      "size": 208563,
+      "sha256": "5b67ba9dc0d3ba3195e9f0e808ca948aa716670babcb420d077835c2aafa8fe6",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_034.png",
+      "size": 174880,
+      "sha256": "d28bf794cd888c8877d7484f03ec37e46ca5a23cde667ff18a664daf0459993f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_035.png",
+      "size": 195901,
+      "sha256": "9a5c47c4d9421ae6561cd050d75711b56940edf50e10a377b4c486bf67da8300",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_036.png",
+      "size": 181223,
+      "sha256": "0cef0e489ba20126f76279f34c0cb5103943f18b83da92b8dcbcbed03f5949ca",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_037.png",
+      "size": 181934,
+      "sha256": "6cd8c7aa1f3dc45d87c3118ff42e3641069d3493b206f0116dd3327ccf4bfaf4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_038.png",
+      "size": 173989,
+      "sha256": "f3a880c374e64ffabdb34ff25323935a83859334fa7c9a7db43c05283b40317c",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_039.png",
+      "size": 194860,
+      "sha256": "456b981b0182f02dea0e65333e3bf00920c3b1989ac8ddc80ff0968c229b121a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/train/stain/img_3_040.png",
+      "size": 190608,
+      "sha256": "ed660f11c3c937348623283dcc60a29afa1d2bc032e450d2c50b6fc4b964c5a2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_041.png",
+      "size": 170203,
+      "sha256": "df3c3c6420a5824e8b0d818fc7da0c6f115de83583109efc83495f0993ee3bce",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_042.png",
+      "size": 189165,
+      "sha256": "cf1bfc80ccfa6349c9eb8e12a299bcb727e99db5f6abd5bc0bc31999773f79c2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_043.png",
+      "size": 171223,
+      "sha256": "5993f1e24acd83d3caac3a2db274b6b8839e49f5701616dd105f23ca726e0873",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_044.png",
+      "size": 189156,
+      "sha256": "a8df7e85568897f17bac0e8266a5e2bee09edb7b7ad8cef9db2c61d6eaae6f4e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_045.png",
+      "size": 189451,
+      "sha256": "a6fa3d406d9c14c8f7f38221f75c6952aad134e8c8c45cad9a2b9923ba451862",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_046.png",
+      "size": 198664,
+      "sha256": "145f0d4d4bcd4290a5e801f78dba67680d8464832090e30dbeb507de876ca84e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_047.png",
+      "size": 190836,
+      "sha256": "9b97c0782fa072d32a5a1fb9433006243036a99a57faaf883ef109eff49c3b1d",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_048.png",
+      "size": 185381,
+      "sha256": "d42d4515c3f8c6635a3991deb6153f206b3214f6a5b520010cbbccd35b7ba148",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_049.png",
+      "size": 193020,
+      "sha256": "23d641ae39338f65a511c589292fe1f7ed5901f6f8de50f7899abea77e6aeb56",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/normal/img_0_050.png",
+      "size": 179375,
+      "sha256": "f6ac094eeafaacc61b2f197f5271d67f2744e25dc39802cc64fffd6f049327d4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_041.png",
+      "size": 171520,
+      "sha256": "a998df9ffc1d1cad90bfebaf0baacd51b10f09530e967600c3432c35c091fdc2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_042.png",
+      "size": 195932,
+      "sha256": "8e4d93e92c1eff43965b9483d4dd7ede5325fd6fc04234aa99df6d84e7e23a53",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_043.png",
+      "size": 187873,
+      "sha256": "9e0f7c0aa1e4fc49d4a2975b2624a794507642dd4a96f8343d52fc1ad680addc",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_044.png",
+      "size": 191671,
+      "sha256": "561532f524b194566ce2be3021449905e8773c93d79b682e42eb447ac81ba8e4",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_045.png",
+      "size": 198940,
+      "sha256": "056ef45b3820146ba697249e594660505b1ccc1c7cd7c2d9fada77da4f54e374",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_046.png",
+      "size": 171410,
+      "sha256": "255386ae5906ad8437c50678e04df99dfff620f976e6eb1d9edd79c17908ceed",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_047.png",
+      "size": 177283,
+      "sha256": "5eac50637329d480bf1253c93982a8832a174a0058645b1db8df8661b6dd56a9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_048.png",
+      "size": 169715,
+      "sha256": "d0e7461bd46d4e05a326b3546b98f3995264be04fa131231f065dce3b5b8f26f",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_049.png",
+      "size": 186552,
+      "sha256": "2404463201a2bcfd3bb1da1f3a5bd46d518698ad272d48dcac2c5d3e44b4d960",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/notch/img_1_050.png",
+      "size": 171289,
+      "sha256": "4f569e9db92cee240d2e61e929876fbd50bbf302a9c377bf2b7208d8aee93bf9",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_041.png",
+      "size": 172711,
+      "sha256": "e2190ecdffd3cff1e150090a4978b146f53962249dbbdfbd21f68bb90b1ce8b2",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_042.png",
+      "size": 172798,
+      "sha256": "7570dd0051e0e0d72ebd6ba5b3e5bdd6557384e58bf017002c56b2a60838f48a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_043.png",
+      "size": 201745,
+      "sha256": "f263fbf20bb65dd9c370e9d87cfeca1e1c7eecbb0dc928ba9563a981fc088f43",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_044.png",
+      "size": 172534,
+      "sha256": "44faac22ff8f81610240f3bd8733f92c1160687c91fc4225efbba567612d05ad",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_045.png",
+      "size": 203692,
+      "sha256": "741f50af1d085a0a2ba8ac887cfc97958513811a9fd64ed0c5e06bc57397e94e",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_046.png",
+      "size": 171988,
+      "sha256": "d32b22bfbaa170d58cc3e7fc3f96a3fdc7e670a42db402bfdbc84cf1a0389e96",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_047.png",
+      "size": 206360,
+      "sha256": "ac312b7949cb8c46cfb911246b7b2e88e6d0b7ddbcd20d63075861672279e3cc",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_048.png",
+      "size": 171853,
+      "sha256": "0c055833d7660f0ab211d4acb81aa8991ec4869ae47a6f8b2e389311293aeee0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_049.png",
+      "size": 186457,
+      "sha256": "be2c022a2d01867c8e3a2f3918c0555ca6b4420a7a5ecc8267d70210793a0cbf",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/scratch/img_2_050.png",
+      "size": 170799,
+      "sha256": "3d320afbd97bfe756c0b287d51d06cb109738668cc165fe953e3d27781f63542",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_041.png",
+      "size": 212131,
+      "sha256": "2a9470fa97f65df52a00a00fc8ec53486b64f984a2fa6a7e425684194477a76b",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_042.png",
+      "size": 184016,
+      "sha256": "981c02ea9727db2842b1e2ec157123b5e15c87bc7c961a4591dc2d55123cf416",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_043.png",
+      "size": 206819,
+      "sha256": "f8715444d10b8cc969a12ab7e6e357bdf01724b0f236ac506438ae0a2d23ab91",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_044.png",
+      "size": 176943,
+      "sha256": "44756f12d5e5af9632cae86f3a3dae7fd713edc736adffd80924e52f0f8c82f1",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_045.png",
+      "size": 201923,
+      "sha256": "cb17063a64b45e32ac7cab50c8771c205acd1a647b01c76e6bc92252232ac48a",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_046.png",
+      "size": 193464,
+      "sha256": "d6bc2155fd92ae831407f358b9437ab34e3cdafa4162ce983626b11388adc955",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_047.png",
+      "size": 191914,
+      "sha256": "2119b1d95d40226ba228e79e1bb5680870de3a13f07173ced31e1fdad5e14435",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_048.png",
+      "size": 204543,
+      "sha256": "ae642b0bf4f8f4e6f3778d632d6c71502a4b635f3da8de3042fc0f4e54051d19",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_049.png",
+      "size": 209389,
+      "sha256": "104120db76d0aa5ebee2f975b69f109d00eecad2acf50f58b90eeda9d4e12cc5",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/images/val/stain/img_3_050.png",
+      "size": 194733,
+      "sha256": "b960abeeecf6952c85c1c9e676a4f09ad9576598bf7b999ebac1ae8209bdee36",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/labels_train_val.csv",
+      "size": 17193,
+      "sha256": "dbd4eec1bb6a737699071a0a1abd818eee83df61040cab81f44cc208bfdf71fd",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/README.md",
+      "size": 807,
+      "sha256": "7c85a77dd4402eda02f77e925218431999bb946d4dc91cf668e6d840037d99e0",
+      "mutable": false
+    },
+    {
+      "path": "数据/dataset/样本预览.png",
+      "size": 412525,
+      "sha256": "0a0b1e7f48f3a7560f8eb27ac00128a4c948c67236b9f54ee91f21c247f9835a",
+      "mutable": false
+    },
+    {
+      "path": "config.json",
+      "size": 4384,
+      "sha256": "5baccff32fa82c6bc1d5b75bc5f166ce09d0927b6dd6fbd9f6cedb23e064d489",
+      "mutable": true
+    },
+    {
+      "path": "README.md",
+      "size": 24340,
+      "sha256": "01e77a5cd6954147538718ac7585b3083308878f9ce56d5a7f56bacf7ffb66f5",
+      "mutable": true
+    },
+    {
+      "path": "启动.bat",
+      "size": 1125,
+      "sha256": "686462fd899613704b846eb8f128b359d305b7626d5aa3b8e061f3d2cd54a8e7",
+      "mutable": true
+    },
+    {
+      "path": "check_integrity.py",
+      "size": 16554,
+      "sha256": "b3461d4773026dc5d9da70a60a628a85bd5f3febf075a63dc927e25cc4c8c465",
+      "mutable": false
+    }
+  ],
+  "support": {
+    "python": "../支持文件/Python环境/Scripts/python.exe",
+    "venv_dir": "../支持文件/Python环境",
+    "wheel_dir": "../支持文件/离线安装包/wheels",
+    "packages": {
+      "torch": "2.11.0+cu128",
+      "torchvision": "0.26.0+cu128",
+      "numpy": "2.3.5",
+      "Pillow": "13.0.0",
+      "sympy": "1.14.0",
+      "networkx": "3.7",
+      "jinja2": "3.1.6",
+      "filelock": "4.2.9",
+      "fsspec": "2026.9.0",
+      "setuptools": "81.0.0",
+      "typing_extensions": "4.16.0",
+      "mpmath": "1.4.1",
+      "MarkupSafe": "3.0.4"
+    },
+    "wheels": [
+      {
+        "name": "filelock-4.2.9-py3-none-any.whl",
+        "size": 164734
+      },
+      {
+        "name": "fsspec-2026.9.0-py3-none-any.whl",
+        "size": 221738
+      },
+      {
+        "name": "jinja2-3.1.6-py3-none-any.whl",
+        "size": 134899
+      },
+      {
+        "name": "markupsafe-3.0.4-cp312-cp312-win_amd64.whl",
+        "size": 14303
+      },
+      {
+        "name": "mpmath-1.4.1-py3-none-any.whl",
+        "size": 567787
+      },
+      {
+        "name": "networkx-3.7-py3-none-any.whl",
+        "size": 2142205
+      },
+      {
+        "name": "numpy-2.3.5-cp312-cp312-win_amd64.whl",
+        "size": 12782922
+      },
+      {
+        "name": "pillow-13.0.0-cp312-cp312-win_amd64.whl",
+        "size": 7272166
+      },
+      {
+        "name": "setuptools-81.0.0-py3-none-any.whl",
+        "size": 1062021
+      },
+      {
+        "name": "six-1.17.0-py2.py3-none-any.whl",
+        "size": 11050
+      },
+      {
+        "name": "sympy-1.14.0-py3-none-any.whl",
+        "size": 6299353
+      },
+      {
+        "name": "torch-2.11.0+cu128-cp312-cp312-win_amd64.whl",
+        "size": 2753189216
+      },
+      {
+        "name": "torchvision-0.26.0+cu128-cp312-cp312-win_amd64.whl",
+        "size": 9585013
+      },
+      {
+        "name": "typing_extensions-4.16.0-py3-none-any.whl",
+        "size": 45571
+      }
+    ]
+  }
+}

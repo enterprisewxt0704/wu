@@ -1,0 +1,136 @@
+{
+  "_说明": "H1 原型总配置。所有阈值、路径、硬件参数集中在这里；界面改参数后写回本文件。路径相对 H1原型/ 根目录。",
+  "dataset_root": "数据/dataset",
+  "labels_csv": "labels_train_val.csv",
+  "splits": {
+    "fit": "train",
+    "report": "val",
+    "unlabeled": "test_unlabeled"
+  },
+  "classes": ["normal", "notch", "scratch", "stain"],
+  "class_cn": {
+    "normal": "正常",
+    "notch": "缺口",
+    "scratch": "划痕",
+    "stain": "污渍"
+  },
+  "defect_classes": ["notch", "scratch", "stain"],
+  "paths": {
+    "model_dir": "模型",
+    "out_dir": "运行结果",
+    "record_csv": "records.csv",
+    "feedback_csv": "recheck_feedback.csv"
+  },
+  "features": {
+    "chroma_thresh": 45.0,
+    "radius_percentile": 99.5,
+    "unwrap_angles": 720,
+    "unwrap_radii": 160,
+    "r_min": 0.1,
+    "r_max": 0.86,
+    "rim_bins": 720,
+    "dark_split": -0.1,
+    "dark_chroma_ratio": 0.8,
+    "bright_split": 0.08,
+    "inner_r": 0.72,
+    "line_step": 1.5,
+    "line_angles": 90,
+    "geom_stride": 1
+  },
+  "thresholds": {
+    "notch": 0.02415,
+    "dark": 0.003234,
+    "purity": 2.733635,
+    "peak": 234.55,
+    "dark_big": 0.028997
+  },
+  "anomaly": {
+    "_说明": "baseline.json 存正常品的 median / MAD；z_cap 只用于数值稳定。",
+    "z_cap": 30.0
+  },
+  "decision": {
+    "_说明": "特征串联的异常分门限。low/high 由 train 的空档带确定；conf_min 只决定是否标“未知缺陷”。",
+    "low": 0.3607,
+    "high": 0.8371,
+    "conf_min": 0.97,
+    "pass_normal_prob": 0.9,
+    "policy": "risk_averse",
+    "band": [0.05, 0.95]
+  },
+  "deep": {
+    "_说明": "基础版 MobileNetV3-Small。deep 缺陷分 = 三类缺陷概率之和，阈值沿用基础版 0.20/0.80。",
+    "enabled": true,
+    "model_path": "模型/model.pth",
+    "device": "auto",
+    "input_size": 512,
+    "batch_size": 16,
+    "defect_recheck": 0.2,
+    "defect_reject": 0.8,
+    "normal_pass_prob": 0.9,
+    "ensemble_weight_deep": 0.5
+  },
+  "fusion": {
+    "_说明": "M1=特征门卫+深度分诊；M2=深度门卫+特征分诊；M3=双模型证据融合；M0=仅特征（对照/深度不可用时自动回退）。",
+    "default_mode": "M3",
+    "modes": ["M0", "M1", "M2", "M3"],
+    "weight_deep": 0.5,
+    "risk_combine": "max"
+  },
+  "quality": {
+    "_说明": "质量门：曝光/清晰度/尺寸/居中/重复触发。任何一项不过 -> RECHECK，绝不放行。",
+    "mean_lum_min": 25.0,
+    "mean_lum_max": 245.0,
+    "sharpness_min": 30.0,
+    "center_offset_max": 0.35,
+    "min_side": 256,
+    "max_side": 4096,
+    "allow_resize": true
+  },
+  "line": {
+    "_说明": "仿真产线参数。delay_comp = (sensor_to_camera_mm + camera_to_actuator_mm) / speed。",
+    "conveyor_speed_mm_s": 120.0,
+    "sensor_to_camera_mm": 40.0,
+    "camera_to_actuator_mm": 180.0,
+    "sim_cycle_ms": 900,
+    "sensor_debounce_ms": 150,
+    "actuator_timeout_ms": 300,
+    "queue_max": 20
+  },
+  "presets": {
+    "risk_averse": {"low": 0.3607, "high": 0.8371, "conf_min": 0.97},
+    "balanced": {"low": 0.493, "high": 0.7048, "conf_min": 0.97},
+    "demo_recheck": {"low": 0.8214, "high": 0.9868, "conf_min": 0.95},
+    "course": {"low": 0.5, "high": 0.9},
+    "starter_kit": {"low": 0.2, "high": 0.8}
+  },
+  "runtime": {
+    "simulate_actuator": true,
+    "actuator_delay_ms": 60,
+    "actuator_fail_rate": 0.0,
+    "record_csv": "records.csv",
+    "image_size": 512
+  },
+  "model": {
+    "selected_classifier": "logreg",
+    "cv_accuracy": 0.975,
+    "deep_note": "MobileNetV3-Small 只训练最后的四分类输出层；预处理 ToTensor+Normalize，不裁剪不缩放。"
+  },
+  "integrity": {
+    "_说明": "启动前完整性检查。项目文件缺失时优先从本地资源缓存恢复；若配置了 source_base，则从 HTTP 源下载。Python 包缺失时自动下载 wheel 并离线安装。",
+    "enabled": true,
+    "manifest": "完整性清单.json",
+    "source_base": "",
+    "cache_zip": "../支持文件/安装缓存/H1原型资源.zip",
+    "support_python": "../支持文件/Python环境/Scripts/python.exe",
+    "wheel_dir": "../支持文件/离线安装包/wheels",
+    "download_timeout_s": 120,
+    "check_support": true,
+    "auto_repair": true
+  },
+  "ui": {
+    "font": "Microsoft YaHei",
+    "window": "1280x960",
+    "recent_rows": 300,
+    "image_max": 430
+  }
+}

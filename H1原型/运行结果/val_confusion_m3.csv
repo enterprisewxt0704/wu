@@ -1,0 +1,5 @@
+﻿真值\预测,normal,notch,scratch,stain
+normal,10,0,0,0
+notch,0,10,0,0
+scratch,0,0,10,0
+stain,0,0,0,10
