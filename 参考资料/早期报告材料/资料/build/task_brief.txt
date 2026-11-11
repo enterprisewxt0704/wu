@@ -1,0 +1,254 @@
+[Normal] 《智能制造系统设计与实战1》
+[Normal] 课程考核任务书
+[Normal] 三档项目制考核
+[Heading 1] 一、考核总体说明
+[List Bullet] 本课程采用小组项目制考核，每组不超过 5 人。
+[List Bullet] 学生从教师给定题库中选择一题，不接受自拟题目。
+[List Bullet] 简单档最高 75 分，中度档最高 88 分，较难档最高 100 分。
+[List Bullet] 所有档次均提交设计报告和成果汇报 PPT，不安排现场答辩或统一现场汇报。
+[List Bullet] 较难档必须额外提交可运行程序、仿真或实物原型，以及完整演示视频。
+[List Bullet] 个人成绩以小组项目成绩为基础，根据个人成果、个人说明和组内互评进行 −5 至 +5 分调整，且不突破档次上限。
+[List Bullet] 允许使用AI工具，但必须写AI使用申明，申明使用的什么模型，详细记录哪些工作完全由AI生成、哪些属于AI辅助，并重点说明团队独立完成工作内容。（放在报告正文之前）
+[Heading 1] 二、选题总览
+<TABLE>
+  | 题号 | 档次 | 题目 | 成绩上限
+  | S1 | 简单档 | 瓶盖外观质量检测系统设计 | 75
+  | S2 | 简单档 | A/B/C 产品智能分拣系统设计 | 75
+  | S3 | 简单档 | 车间危险区域人员安全监测系统设计 | 75
+  | M1 | 中度档 | 带复检机制的瓶盖智能质检系统设计 | 88
+  | M2 | 中度档 | 制造设备异常监测与维护提醒系统设计 | 88
+  | M3 | 中度档 | 混流生产线柔性分拣系统设计 | 88
+  | H1 | 较难档 | 瓶盖智能质检与自动处置软件原型 | 100
+</TABLE>
+[Heading 1] 三、分档成果要求
+<TABLE>
+  | 档次 | 报告 | 成果 PPT | 核心成果 | 实现要求
+  | 简单档 | 8—12 页 | 5—8 页 | 架构图、流程图、模块表 | 不要求程序或实物
+  | 中度档 | 12—18 页 | 8—12 页 | 增加时序、阈值/成本、异常、方案比较 | 实现可选，不强制
+  | 较难档 | 15—25 页 | 10—15 页 | 完整架构、代码实现 | 可运行原型 + 5—8 分钟视频
+</TABLE>
+[Heading 1] 四、统一评分框架
+<TABLE>
+  | 基础评价项目 | 分值 | 判断依据
+  | 制造需求分析 | 10 | 制造问题、对象、目标和边界
+  | AI 任务选择 | 10 | 任务选择正确并说明理由
+  | 系统架构设计 | 15 | 感知、分析、决策、执行、反馈完整
+  | 工作流程与决策 | 15 | 输入、处理、输出及处置流程清楚
+  | 模块设计说明 | 10 | 各模块职责和接口明确
+  | 异常与风险分析 | 8 | 识别基本异常并提出合理措施
+  | 报告与 PPT 质量 | 7 | 结构、图表、提炼和规范性
+</TABLE>
+[Normal] 中度档增量 13 分：阈值与错误成本 4 分；多种异常处理 5 分；方案比较与选型 4 分。
+[Normal] 较难档增量 12 分：原型功能完整性 5 分；测试与结果分析 4 分；演示与可复现性 3 分。
+[Heading 1] 五、提交与真实性要求
+[List Bullet] 所有图表应根据所选项目重新设计，不能直接截取授课 PPT。
+[List Bullet] 可使用开源代码、预训练模型和 AI 辅助工具，但须注明来源、用途和修改内容。
+[List Bullet] 报告图表、程序模块和视频演示部分应标明主要完成人。
+[List Bullet] 报告、PPT、程序和演示视频应相互一致。
+[List Bullet] 不能解释或无法复现的代码、系统图和运行结果不计入对应评分。
+[List Bullet] 伪造数据或运行结果时，测试与原型部分计零分。
+[Heading 1] S1｜瓶盖外观质量检测系统设计
+[Normal] 简单档｜成绩上限 75 分
+[Heading 2] 项目背景
+[Normal] 某瓶盖生产线需要检测明显缺口、划痕和污渍。正常瓶盖继续流向包装工位，明显缺陷瓶盖需要被剔除。
+[Heading 2] 已知条件
+[List Bullet] 瓶盖单列通过检测工位。
+[List Bullet] 可使用 Camera、到达 Sensor 和气动剔除机构。
+[List Bullet] 暂不考虑高速生产和复杂通信。
+[List Bullet] 不要求完成程序或实物。
+[Heading 2] 设计与实现任务
+[List Bullet] 分析系统要解决的制造问题、对象、目标。
+[List Bullet] 从分类、目标检测、分割、异常检测中选择合适任务并说明理由。
+[List Bullet] 设计感知—分析—决策—执行—反馈架构。
+[List Bullet] 说明各模块的输入、处理和输出。
+[List Bullet] 设计正常瓶盖和缺陷瓶盖的处置流程。
+[List Bullet] 分析至少两种可能异常并提出处理措施。
+[Heading 2] 必交成果
+[List Bullet] 系统总体架构图。
+[List Bullet] 检测与处置流程图。
+[List Bullet] 模块输入—处理—输出表。
+[List Bullet] 8—12 页设计报告。
+[List Bullet] 5—8 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 不要求设置多级阈值，不要求计算节拍，不要求实现程序。
+[Heading 1] S2｜A/B/C 产品智能分拣系统设计
+[Normal] 简单档｜成绩上限 75 分
+[Heading 2] 项目背景
+[Normal] 某生产线混合输送 A、B、C 三类外观不同的产品，需要根据视觉识别结果将产品送入三个对应出口。
+[Heading 2] 已知条件
+[List Bullet] 三类产品外观具有明显区别。
+[List Bullet] 产品单列、等间距通过检测工位。
+[List Bullet] 可使用 Camera、Sensor 和三个分流出口。
+[List Bullet] 假定识别结果始终能够得到一个类别。
+[Heading 2] 设计与实现任务
+[List Bullet] 分析分拣系统的输入与输出。
+[List Bullet] 选择合适的 AI 视觉任务并说明理由。
+[List Bullet] 设计产品到达、拍摄、识别和分流流程。
+[List Bullet] 分析至少两种系统异常。
+[Heading 2] 必交成果
+[List Bullet] A/B/C 分拣系统架构图。
+[List Bullet] 三分支决策流程图。
+[List Bullet] 三类产品输入与出口对应表。
+[List Bullet] 模块职责表。
+[List Bullet] 8—12 页设计报告。
+[List Bullet] 5—8 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 不要求处理未知类别和模型不确定情况，不要求复杂位置跟踪或速度计算，不要求代码实现。
+[Heading 1] S3｜车间危险区域人员安全监测系统设计
+[Normal] 简单档｜成绩上限 75 分
+[Heading 2] 项目背景
+[Normal] 某设备运行时，人员进入划定危险区域可能受到伤害。企业希望利用 Camera 判断人员是否进入危险区，并进行报警或停止设备。
+[Heading 2] 已知条件
+[List Bullet] 危险区域的位置固定。
+[List Bullet] Camera 能够覆盖该区域。
+[List Bullet] 系统可连接声光报警器和设备停止信号。
+[List Bullet] 暂不考虑多人身份识别和复杂遮挡。
+[Heading 2] 设计与实现任务
+[List Bullet] 分析需要感知的现场信息。
+[List Bullet] 选择人员检测和区域判断方式。
+[List Bullet] 设计正常、预警和停机流程。
+[List Bullet] 说明 Camera、AI、决策模块、报警器和设备分别承担什么任务。
+[List Bullet] 设计报警或停机后的确认与恢复流程。
+[List Bullet] 分析至少两种误报警或漏报警风险。
+[Heading 2] 必交成果
+[List Bullet] 人员安全监测系统架构图。
+[List Bullet] 人员进入危险区的判断流程图。
+[List Bullet] 系统状态与动作对应表。
+[List Bullet] 8—12 页设计报告。
+[List Bullet] 5—8 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 边界：不要求人脸识别、人员跟踪或程序，不讨论具体安全法规认证。
+[Heading 1] M1｜带复检机制的瓶盖智能质检系统设计
+[Normal] 中度档｜成绩上限 88 分
+[Heading 2] 项目背景
+[Normal] 某瓶盖生产线需要检测缺口、划痕和污渍。模型对部分瓶盖判断不够确定，因此需要设置正常放行、人工复检和缺陷剔除三种处置。
+[Heading 2] 已知条件
+[List Bullet] 瓶盖单列通过检测工位。
+[List Bullet] 模型输出缺陷类别和异常分数。
+[List Bullet] 可设置 PASS、RECHECK、REJECT 三条路径。
+[List Bullet] 产线每 1 秒通过一只瓶盖。
+[List Bullet] Camera 与剔除机构之间存在一定距离。
+[Heading 2] 设计与实现任务
+[List Bullet] 选择适合的 AI 视觉任务并说明理由。
+[List Bullet] 设计 PASS、RECHECK、REJECT 三分支规则。
+[List Bullet] 说明阈值变化对漏检和误检的影响。
+[List Bullet] 分析 Camera 无图像、模型不确定、执行失败等异常。
+[List Bullet] 比较直接二分类和三分支复检两种方案。
+[Heading 2] 必交成果
+[List Bullet] 完整系统架构图。
+[List Bullet] 三分支决策流程图。
+[List Bullet] 阈值、处置及制造后果对应表。
+[List Bullet] 两种方案比较表。
+[List Bullet] 12—18 页设计报告。
+[List Bullet] 8—12 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 需要完成阈值和错误成本分析，但不强制实现程序。
+[Heading 1] M2｜制造设备异常监测与维护提醒系统设计
+[Normal] 中度档｜成绩上限 88 分
+[Heading 2] 项目背景
+[Normal] 某旋转设备可能出现轴承磨损、温度升高或异常振动。企业希望在设备严重故障前发现异常，并安排检查或停机维护。
+[Heading 2] 已知条件
+[List Bullet] 可使用振动、温度或声音传感器。
+[List Bullet] 正常运行数据相对容易获得，故障数据较少。
+[List Bullet] 系统需要输出正常、预警和停机检查三种状态。
+[List Bullet] 设备停机会影响生产，漏报又可能造成更大损失。
+[Heading 2] 设计与实现任务
+[List Bullet] 选择需要采集的现场信息并说明作用。
+[List Bullet] 比较规则阈值和异常检测两种分析方式。
+[List Bullet] 设计正常、预警、停机检查的决策逻辑。
+[List Bullet] 分析漏报与误报造成的不同制造后果。
+[List Bullet] 设计维护人员确认和结果反馈机制。
+[List Bullet] 比较至少两种方案并完成选型。
+[Heading 2] 必交成果
+[List Bullet] 设备异常监测系统架构图。
+[List Bullet] 数据—分析—决策—维护流程图。
+[List Bullet] 三状态决策表。
+[List Bullet] 规则阈值与异常检测比较表。
+[List Bullet] 系统评价指标表。
+[List Bullet] 12—18 页设计报告。
+[List Bullet] 8—12 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 不要求训练模型，重点考核任务选择、决策逻辑与系统闭环。
+[Heading 1] M3｜混流生产线柔性分拣系统设计
+[Normal] 中度档｜成绩上限 88 分
+[Heading 2] 项目背景
+[Normal] 某生产线混合生产 A、B、C 三类产品，还可能出现未知产品、产品姿态变化和模型判断不确定等情况。
+[Heading 2] 已知条件
+[List Bullet] 产品通过同一 Camera 检测。
+[List Bullet] 模型输出类别、置信度和目标位置。
+[List Bullet] 具有 A、B、C 三个出口和一个复检通道。
+[List Bullet] 产品间距可能变化。
+[List Bullet] 不同订单可能启用不同分拣规则。
+[Heading 2] 设计与实现任务
+[List Bullet] 设计 A、B、C、未知和不确定样本的处置逻辑。
+[List Bullet] 说明类别、置信度和位置怎样进入制造决策。
+[List Bullet] 分析产品过近、重复拍摄、漏拍和执行失败等异常。
+[List Bullet] 设计不同订单模式下的规则切换方式。
+[List Bullet] 设计执行确认、报警和数据记录机制。
+[Heading 2] 必交成果
+[List Bullet] 柔性分拣系统完整架构图。
+[List Bullet] 五分支处置流程图。
+[List Bullet] 异常处理情况表。
+[List Bullet] 12—18 页设计报告。
+[List Bullet] 8—12 页成果汇报 PPT。
+[Heading 2] 难度边界与最低要求
+[Normal] 需要完成未知样本和规则切换设计，但不强制实现实际控制程序。
+[Heading 1] H1｜瓶盖智能质检与自动处置软件原型
+[Normal] 较难档｜成绩上限 100 分
+[Heading 2] 项目背景
+[Normal] 某瓶盖生产线需要检测缺口、划痕和污渍。系统不仅要给出检测结果，还要根据模型输出完成 PASS、RECHECK、REJECT 判断，并记录每只瓶盖的检测与处置结果。
+[Heading 2] 已知条件
+[List Bullet] 可使用课程提供或小组自行采集的瓶盖图像、视频。
+[List Bullet] 可使用现成预训练模型、开源工具或自行设计的简单算法。
+[List Bullet] 不要求自行训练复杂深度学习网络。
+[List Bullet] 必须能够通过完整演示视频验证。
+[Heading 2] 设计与实现任务
+[List Bullet] 完成图像或视频输入并输出缺陷类别、异常分数或目标位置。
+[List Bullet] 实现 PASS、RECHECK、REJECT 三分支和阈值调整。
+[List Bullet] 显示或记录检测时间、模型结果和处置结果。
+[List Bullet] 处理无图像、模型不确定或输入异常。
+[List Bullet] 设计测试集并分析漏检、误检。
+[List Bullet] 说明原型怎样连接真实 Camera、Sensor 和执行机构。
+[Heading 2] 必交成果
+[List Bullet] 可运行的软件、程序或交互式仿真。
+[List Bullet] 程序源文件及运行说明。
+[List Bullet] 完整架构图、处理流程图和模块表。
+[List Bullet] 测试样本及测试结果记录。
+[List Bullet] 方案比较与异常处理说明。
+[List Bullet] 15—25 页设计报告。
+[List Bullet] 10—15 页成果汇报 PPT，并现场答辩。
+[List Bullet] 5—8 分钟完整演示视频。
+[Heading 2] 难度边界与最低要求
+[Normal] 最低要求：连续处理不少于 20 个样本，包含正常和至少两类异常，展示至少两种处置，保存或显示结果。
+[Heading 1] 附录 A｜小组成员分工表
+<TABLE>
+  | 序号 | 姓名 | 学号 | 负责模块/工作 | 组内贡献排序
+  | 1 |  |  |  | 
+  | 2 |  |  |  | 
+  | 3 |  |  |  | 
+  | 4 |  |  |  | 
+  | 5 |  |  |  | 
+</TABLE>
+[Normal] 本组确认：以上小组成员分工以及组内贡献排序全员知悉并认可。
+[Normal] 小组负责人签名：____________________________________________
+[Normal] 全体成员签名：____________________________________________
+[Normal] 日期：____________________________________________
+[Heading 1] 附录 B｜提交文件命名与检查清单
+[List Bullet] 文件夹：组号_小组负责人姓名
+[List Bullet] 报告：组号_题号_系统设计报告.docx 或 .pdf
+[List Bullet] PPT：组号_题号_成果汇报.pptx
+[List Bullet] 较难档原型：组号_题号_程序或工程文件
+[List Bullet] 较难档视频：组号_题号_演示视频.mp4
+[List Bullet] 成员分工表已提交
+[List Bullet] 所有外部资源和 AI 辅助内容均已注明
+[Heading 1] 附录 C｜系统设计报告封面
+[Normal] 南京理工大学
+[Body Text] 课程考核论文
+[Normal] 课程名称：
+[Normal] 论文题目：这里填选择的题号
+[Normal] 姓    名：
+[Normal] 学    号：
+[Normal] 成    绩：
+<TABLE>
+  | 任课教师评语： /  /  /  /  /  /  /  /  /                    签名：                /                                       年   月   日 /  /
+</TABLE>

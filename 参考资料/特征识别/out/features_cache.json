@@ -1,0 +1,1202 @@
+{
+ "images/train/normal/img_0_001.png": {
+  "notch": 0.003324637422338128,
+  "dark": 0.0,
+  "purity": 1.0633412686501251,
+  "peak": 31.0
+ },
+ "images/train/normal/img_0_002.png": {
+  "notch": 0.005592122673988342,
+  "dark": 0.0,
+  "purity": 0.9384769262047771,
+  "peak": 29.0
+ },
+ "images/train/normal/img_0_003.png": {
+  "notch": 0.0034016123972833157,
+  "dark": 0.0,
+  "purity": 1.0155259355743584,
+  "peak": 31.0
+ },
+ "images/train/normal/img_0_004.png": {
+  "notch": 0.003955226391553879,
+  "dark": 0.0,
+  "purity": 1.2480241604448816,
+  "peak": 47.0
+ },
+ "images/train/normal/img_0_005.png": {
+  "notch": 0.003691614605486393,
+  "dark": 0.0,
+  "purity": 1.1363310286178552,
+  "peak": 48.0
+ },
+ "images/train/normal/img_0_006.png": {
+  "notch": 0.003992363810539246,
+  "dark": 0.0,
+  "purity": 1.0576923076923077,
+  "peak": 44.0
+ },
+ "images/train/normal/img_0_007.png": {
+  "notch": 0.0036107951309531927,
+  "dark": 0.0,
+  "purity": 1.1529725508983288,
+  "peak": 33.0
+ },
+ "images/train/normal/img_0_008.png": {
+  "notch": 0.0037168844137340784,
+  "dark": 0.0,
+  "purity": 0.9775773587572189,
+  "peak": 40.0
+ },
+ "images/train/normal/img_0_009.png": {
+  "notch": 0.003699095454066992,
+  "dark": 0.0,
+  "purity": 1.075386252518258,
+  "peak": 30.0
+ },
+ "images/train/normal/img_0_010.png": {
+  "notch": 0.0035551427863538265,
+  "dark": 0.0,
+  "purity": 1.065545892700333,
+  "peak": 46.0
+ },
+ "images/train/normal/img_0_011.png": {
+  "notch": 0.00561350304633379,
+  "dark": 0.0,
+  "purity": 1.0707780144524441,
+  "peak": 49.0
+ },
+ "images/train/normal/img_0_012.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.2030443487786329,
+  "peak": 34.0
+ },
+ "images/train/normal/img_0_013.png": {
+  "notch": 0.0037168844137340784,
+  "dark": 0.0,
+  "purity": 0.9712097238800677,
+  "peak": 38.0
+ },
+ "images/train/normal/img_0_014.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.1992068769640882,
+  "peak": 34.0
+ },
+ "images/train/normal/img_0_015.png": {
+  "notch": 0.003647784935310483,
+  "dark": 0.0,
+  "purity": 1.1456677672288476,
+  "peak": 31.0
+ },
+ "images/train/normal/img_0_016.png": {
+  "notch": 0.0038458448834717274,
+  "dark": 0.0,
+  "purity": 1.212079342459718,
+  "peak": 37.0
+ },
+ "images/train/normal/img_0_017.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.160246897829962,
+  "peak": 33.0
+ },
+ "images/train/normal/img_0_018.png": {
+  "notch": 0.004933292046189308,
+  "dark": 0.0,
+  "purity": 1.1342410894527004,
+  "peak": 34.0
+ },
+ "images/train/normal/img_0_019.png": {
+  "notch": 0.003693721955642104,
+  "dark": 0.0,
+  "purity": 0.9877295966495895,
+  "peak": 32.0
+ },
+ "images/train/normal/img_0_020.png": {
+  "notch": 0.0058549740351736546,
+  "dark": 0.0,
+  "purity": 1.0598472130564265,
+  "peak": 35.0
+ },
+ "images/train/normal/img_0_021.png": {
+  "notch": 0.006077671889215708,
+  "dark": 0.0,
+  "purity": 1.0393126146934561,
+  "peak": 35.0
+ },
+ "images/train/normal/img_0_022.png": {
+  "notch": 0.0066282181069254875,
+  "dark": 0.0,
+  "purity": 1.340419835443001,
+  "peak": 49.0
+ },
+ "images/train/normal/img_0_023.png": {
+  "notch": 0.0038856863975524902,
+  "dark": 0.0,
+  "purity": 1.0206207261596576,
+  "peak": 32.0
+ },
+ "images/train/normal/img_0_024.png": {
+  "notch": 0.0037168844137340784,
+  "dark": 0.0,
+  "purity": 0.9775773587572189,
+  "peak": 40.0
+ },
+ "images/train/normal/img_0_025.png": {
+  "notch": 0.006243600510060787,
+  "dark": 0.0,
+  "purity": 0.9106159954822175,
+  "peak": 11.0
+ },
+ "images/train/normal/img_0_026.png": {
+  "notch": 0.0035551427863538265,
+  "dark": 0.0,
+  "purity": 1.065545892700333,
+  "peak": 46.0
+ },
+ "images/train/normal/img_0_027.png": {
+  "notch": 0.0035179993137717247,
+  "dark": 0.0,
+  "purity": 1.0244855718364014,
+  "peak": 29.0
+ },
+ "images/train/normal/img_0_028.png": {
+  "notch": 0.0035551427863538265,
+  "dark": 0.0,
+  "purity": 1.0887099338459922,
+  "peak": 47.0
+ },
+ "images/train/normal/img_0_029.png": {
+  "notch": 0.005659603048115969,
+  "dark": 0.0,
+  "purity": 1.039529912279868,
+  "peak": 45.0
+ },
+ "images/train/normal/img_0_030.png": {
+  "notch": 0.003647008677944541,
+  "dark": 0.0,
+  "purity": 1.1378739092043906,
+  "peak": 36.0
+ },
+ "images/train/normal/img_0_031.png": {
+  "notch": 0.00451525766402483,
+  "dark": 0.0,
+  "purity": 1.0806624185840639,
+  "peak": 38.0
+ },
+ "images/train/normal/img_0_032.png": {
+  "notch": 0.0035551427863538265,
+  "dark": 0.0,
+  "purity": 1.0887099338459922,
+  "peak": 47.0
+ },
+ "images/train/normal/img_0_033.png": {
+  "notch": 0.003324693301692605,
+  "dark": 0.0,
+  "purity": 1.056992905830588,
+  "peak": 31.0
+ },
+ "images/train/normal/img_0_034.png": {
+  "notch": 0.003965057898312807,
+  "dark": 0.0,
+  "purity": 1.0573680348936942,
+  "peak": 35.0
+ },
+ "images/train/normal/img_0_035.png": {
+  "notch": 0.003965057898312807,
+  "dark": 0.0,
+  "purity": 1.0271575196110174,
+  "peak": 34.0
+ },
+ "images/train/normal/img_0_036.png": {
+  "notch": 0.00561350304633379,
+  "dark": 0.0,
+  "purity": 1.0707780144524441,
+  "peak": 49.0
+ },
+ "images/train/normal/img_0_037.png": {
+  "notch": 0.004053490702062845,
+  "dark": 0.0,
+  "purity": 1.045644141523386,
+  "peak": 34.0
+ },
+ "images/train/normal/img_0_038.png": {
+  "notch": 0.0037468671798706055,
+  "dark": 0.0,
+  "purity": 1.4126259122942302,
+  "peak": 49.0
+ },
+ "images/train/normal/img_0_039.png": {
+  "notch": 0.003965057898312807,
+  "dark": 0.0,
+  "purity": 1.0573680348936942,
+  "peak": 35.0
+ },
+ "images/train/normal/img_0_040.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.1286652959662007,
+  "peak": 32.0
+ },
+ "images/val/normal/img_0_041.png": {
+  "notch": 0.006243600510060787,
+  "dark": 0.0,
+  "purity": 1.1147408034263073,
+  "peak": 52.0
+ },
+ "images/val/normal/img_0_042.png": {
+  "notch": 0.004771148785948753,
+  "dark": 0.0,
+  "purity": 1.0966830972480033,
+  "peak": 39.0
+ },
+ "images/val/normal/img_0_043.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.1639360864651445,
+  "peak": 33.0
+ },
+ "images/val/normal/img_0_044.png": {
+  "notch": 0.00603678310289979,
+  "dark": 0.0,
+  "purity": 1.0107594250782999,
+  "peak": 34.0
+ },
+ "images/val/normal/img_0_045.png": {
+  "notch": 0.003699095454066992,
+  "dark": 0.0,
+  "purity": 1.1340959542474853,
+  "peak": 32.0
+ },
+ "images/val/normal/img_0_046.png": {
+  "notch": 0.0034016123972833157,
+  "dark": 0.0,
+  "purity": 1.1760938403509624,
+  "peak": 36.0
+ },
+ "images/val/normal/img_0_047.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.0,
+  "purity": 1.191640827445594,
+  "peak": 34.0
+ },
+ "images/val/normal/img_0_048.png": {
+  "notch": 0.00409752456471324,
+  "dark": 0.0,
+  "purity": 1.1185932101101068,
+  "peak": 51.0
+ },
+ "images/val/normal/img_0_049.png": {
+  "notch": 0.0037468671798706055,
+  "dark": 0.0,
+  "purity": 1.2305217187070059,
+  "peak": 43.0
+ },
+ "images/val/normal/img_0_050.png": {
+  "notch": 0.00382195389829576,
+  "dark": 0.0,
+  "purity": 0.9538229530717173,
+  "peak": 38.0
+ },
+ "images/train/notch/img_1_001.png": {
+  "notch": 0.21533460915088654,
+  "dark": 0.0,
+  "purity": 1.3138025139046818,
+  "peak": 107.0
+ },
+ "images/train/notch/img_1_002.png": {
+  "notch": 0.08478602766990662,
+  "dark": 0.0,
+  "purity": 1.1440107883060733,
+  "peak": 28.0
+ },
+ "images/train/notch/img_1_003.png": {
+  "notch": 0.1394437551498413,
+  "dark": 0.0,
+  "purity": 1.3344012817090594,
+  "peak": 40.0
+ },
+ "images/train/notch/img_1_004.png": {
+  "notch": 0.16315335035324097,
+  "dark": 0.0,
+  "purity": 1.5631186893926872,
+  "peak": 133.0
+ },
+ "images/train/notch/img_1_005.png": {
+  "notch": 0.15615934133529663,
+  "dark": 0.0,
+  "purity": 1.4897852956962379,
+  "peak": 75.0
+ },
+ "images/train/notch/img_1_006.png": {
+  "notch": 0.22693178057670593,
+  "dark": 0.0,
+  "purity": 1.5159238551622274,
+  "peak": 128.0
+ },
+ "images/train/notch/img_1_007.png": {
+  "notch": 0.1456182450056076,
+  "dark": 0.0,
+  "purity": 1.2879261544395677,
+  "peak": 106.0
+ },
+ "images/train/notch/img_1_008.png": {
+  "notch": 0.23249408602714539,
+  "dark": 0.0,
+  "purity": 1.4895656760945206,
+  "peak": 126.0
+ },
+ "images/train/notch/img_1_009.png": {
+  "notch": 0.1589546799659729,
+  "dark": 0.0,
+  "purity": 1.4164108373611715,
+  "peak": 46.0
+ },
+ "images/train/notch/img_1_010.png": {
+  "notch": 0.14739733934402466,
+  "dark": 0.0,
+  "purity": 1.2243476880196107,
+  "peak": 99.0
+ },
+ "images/train/notch/img_1_011.png": {
+  "notch": 0.21341027319431305,
+  "dark": 0.0,
+  "purity": 1.4364460575239237,
+  "peak": 118.0
+ },
+ "images/train/notch/img_1_012.png": {
+  "notch": 0.2186931073665619,
+  "dark": 0.0,
+  "purity": 1.4203719290784178,
+  "peak": 118.0
+ },
+ "images/train/notch/img_1_013.png": {
+  "notch": 0.0899687260389328,
+  "dark": 0.0,
+  "purity": 0.6555055301063447,
+  "peak": 11.0
+ },
+ "images/train/notch/img_1_014.png": {
+  "notch": 0.21497568488121033,
+  "dark": 0.0,
+  "purity": 1.396374134762594,
+  "peak": 112.0
+ },
+ "images/train/notch/img_1_015.png": {
+  "notch": 0.15156665444374084,
+  "dark": 0.0,
+  "purity": 1.4649296898648938,
+  "peak": 121.0
+ },
+ "images/train/notch/img_1_016.png": {
+  "notch": 0.09220872819423676,
+  "dark": 0.0,
+  "purity": 0.8873133825657363,
+  "peak": 36.0
+ },
+ "images/train/notch/img_1_017.png": {
+  "notch": 0.15240807831287384,
+  "dark": 0.0,
+  "purity": 1.408084638744934,
+  "peak": 108.0
+ },
+ "images/train/notch/img_1_018.png": {
+  "notch": 0.14880414307117462,
+  "dark": 0.0,
+  "purity": 1.3585191893923578,
+  "peak": 112.0
+ },
+ "images/train/notch/img_1_019.png": {
+  "notch": 0.1595785915851593,
+  "dark": 0.0,
+  "purity": 1.5275599449349058,
+  "peak": 89.0
+ },
+ "images/train/notch/img_1_020.png": {
+  "notch": 0.2256639450788498,
+  "dark": 0.0,
+  "purity": 1.5343850734072615,
+  "peak": 130.0
+ },
+ "images/train/notch/img_1_021.png": {
+  "notch": 0.09468172490596771,
+  "dark": 0.0,
+  "purity": 1.3921728629146555,
+  "peak": 58.0
+ },
+ "images/train/notch/img_1_022.png": {
+  "notch": 0.10031592100858688,
+  "dark": 0.0,
+  "purity": 1.4603967763132233,
+  "peak": 69.0
+ },
+ "images/train/notch/img_1_023.png": {
+  "notch": 0.14653795957565308,
+  "dark": 0.0,
+  "purity": 1.4096360194641513,
+  "peak": 68.0
+ },
+ "images/train/notch/img_1_024.png": {
+  "notch": 0.08936218172311783,
+  "dark": 0.0,
+  "purity": 1.3386790546558975,
+  "peak": 44.0
+ },
+ "images/train/notch/img_1_025.png": {
+  "notch": 0.23571652173995972,
+  "dark": 0.0,
+  "purity": 1.4912843183337015,
+  "peak": 127.0
+ },
+ "images/train/notch/img_1_026.png": {
+  "notch": 0.16260765492916107,
+  "dark": 0.0,
+  "purity": 1.4659895020328153,
+  "peak": 125.0
+ },
+ "images/train/notch/img_1_027.png": {
+  "notch": 0.09660419076681137,
+  "dark": 0.0,
+  "purity": 1.3568528683596608,
+  "peak": 53.0
+ },
+ "images/train/notch/img_1_028.png": {
+  "notch": 0.09922204911708832,
+  "dark": 0.0,
+  "purity": 1.4143650194435091,
+  "peak": 82.0
+ },
+ "images/train/notch/img_1_029.png": {
+  "notch": 0.09202252328395844,
+  "dark": 0.0,
+  "purity": 0.8136806936301492,
+  "peak": 20.0
+ },
+ "images/train/notch/img_1_030.png": {
+  "notch": 0.14975909888744354,
+  "dark": 0.0,
+  "purity": 1.3906424808828377,
+  "peak": 68.0
+ },
+ "images/train/notch/img_1_031.png": {
+  "notch": 0.09299847483634949,
+  "dark": 0.0,
+  "purity": 1.0514730942206918,
+  "peak": 28.0
+ },
+ "images/train/notch/img_1_032.png": {
+  "notch": 0.1569628119468689,
+  "dark": 0.0,
+  "purity": 1.4169880155801038,
+  "peak": 119.0
+ },
+ "images/train/notch/img_1_033.png": {
+  "notch": 0.14470501244068146,
+  "dark": 0.0,
+  "purity": 1.2945020864220236,
+  "peak": 105.0
+ },
+ "images/train/notch/img_1_034.png": {
+  "notch": 0.08281905949115753,
+  "dark": 0.0,
+  "purity": 1.1975887835739323,
+  "peak": 63.0
+ },
+ "images/train/notch/img_1_035.png": {
+  "notch": 0.2296726405620575,
+  "dark": 0.0,
+  "purity": 1.5376789270871936,
+  "peak": 130.0
+ },
+ "images/train/notch/img_1_036.png": {
+  "notch": 0.08425784856081009,
+  "dark": 0.0,
+  "purity": 0.7501239976862238,
+  "peak": 11.0
+ },
+ "images/train/notch/img_1_037.png": {
+  "notch": 0.0857362225651741,
+  "dark": 0.0,
+  "purity": 1.3906067484062024,
+  "peak": 50.0
+ },
+ "images/train/notch/img_1_038.png": {
+  "notch": 0.10299969464540482,
+  "dark": 0.0,
+  "purity": 1.592741935483871,
+  "peak": 79.0
+ },
+ "images/train/notch/img_1_039.png": {
+  "notch": 0.10008373856544495,
+  "dark": 0.0,
+  "purity": 1.671128477340711,
+  "peak": 78.0
+ },
+ "images/train/notch/img_1_040.png": {
+  "notch": 0.09602802246809006,
+  "dark": 0.0,
+  "purity": 1.466883731369304,
+  "peak": 65.0
+ },
+ "images/val/notch/img_1_041.png": {
+  "notch": 0.14277392625808716,
+  "dark": 0.0,
+  "purity": 1.3102960692688557,
+  "peak": 59.0
+ },
+ "images/val/notch/img_1_042.png": {
+  "notch": 0.15699660778045654,
+  "dark": 0.0,
+  "purity": 1.3226744186046513,
+  "peak": 91.0
+ },
+ "images/val/notch/img_1_043.png": {
+  "notch": 0.15827980637550354,
+  "dark": 0.0,
+  "purity": 1.5167865162621967,
+  "peak": 78.0
+ },
+ "images/val/notch/img_1_044.png": {
+  "notch": 0.14467141032218933,
+  "dark": 0.0,
+  "purity": 1.3580498310331632,
+  "peak": 103.0
+ },
+ "images/val/notch/img_1_045.png": {
+  "notch": 0.15145443379878998,
+  "dark": 0.0,
+  "purity": 1.5349491178884767,
+  "peak": 77.0
+ },
+ "images/val/notch/img_1_046.png": {
+  "notch": 0.09437983483076096,
+  "dark": 0.0,
+  "purity": 1.37511245823951,
+  "peak": 75.0
+ },
+ "images/val/notch/img_1_047.png": {
+  "notch": 0.14156538248062134,
+  "dark": 0.0,
+  "purity": 1.248156464774085,
+  "peak": 61.0
+ },
+ "images/val/notch/img_1_048.png": {
+  "notch": 0.22929517924785614,
+  "dark": 0.0,
+  "purity": 1.5085763992233134,
+  "peak": 126.0
+ },
+ "images/val/notch/img_1_049.png": {
+  "notch": 0.09441143274307251,
+  "dark": 0.0,
+  "purity": 0.8032193289024988,
+  "peak": 16.0
+ },
+ "images/val/notch/img_1_050.png": {
+  "notch": 0.13966110348701477,
+  "dark": 0.0,
+  "purity": 1.3433269649835575,
+  "peak": 78.0
+ },
+ "images/train/scratch/img_2_001.png": {
+  "notch": 0.006449063774198294,
+  "dark": 0.004878472222222222,
+  "purity": 6.435404465010125,
+  "peak": 450.0
+ },
+ "images/train/scratch/img_2_002.png": {
+  "notch": 0.005086876917630434,
+  "dark": 0.005807291666666666,
+  "purity": 7.995126885310435,
+  "peak": 463.0
+ },
+ "images/train/scratch/img_2_003.png": {
+  "notch": 0.005756925325840712,
+  "dark": 0.005295138888888889,
+  "purity": 8.03370496737298,
+  "peak": 455.0
+ },
+ "images/train/scratch/img_2_004.png": {
+  "notch": 0.004874671809375286,
+  "dark": 0.005581597222222222,
+  "purity": 5.404443834995655,
+  "peak": 437.0
+ },
+ "images/train/scratch/img_2_005.png": {
+  "notch": 0.005505201872438192,
+  "dark": 0.008194444444444445,
+  "purity": 4.812187095331951,
+  "peak": 422.0
+ },
+ "images/train/scratch/img_2_006.png": {
+  "notch": 0.005041954107582569,
+  "dark": 0.012395833333333333,
+  "purity": 7.468722272753385,
+  "peak": 690.0
+ },
+ "images/train/scratch/img_2_007.png": {
+  "notch": 0.004339262377470732,
+  "dark": 0.002534722222222222,
+  "purity": 7.2383428160338426,
+  "peak": 329.0
+ },
+ "images/train/scratch/img_2_008.png": {
+  "notch": 0.0037028747610747814,
+  "dark": 0.006206597222222222,
+  "purity": 8.254318753833513,
+  "peak": 394.0
+ },
+ "images/train/scratch/img_2_009.png": {
+  "notch": 0.007453379221260548,
+  "dark": 0.012847222222222222,
+  "purity": 6.31590467003969,
+  "peak": 732.0
+ },
+ "images/train/scratch/img_2_010.png": {
+  "notch": 0.004827018361538649,
+  "dark": 0.014409722222222223,
+  "purity": 8.667476936546006,
+  "peak": 784.0
+ },
+ "images/train/scratch/img_2_011.png": {
+  "notch": 0.004471599590033293,
+  "dark": 0.007560763888888889,
+  "purity": 8.428410881031143,
+  "peak": 557.0
+ },
+ "images/train/scratch/img_2_012.png": {
+  "notch": 0.008608351461589336,
+  "dark": 0.02493923611111111,
+  "purity": 6.238339667787765,
+  "peak": 627.0
+ },
+ "images/train/scratch/img_2_013.png": {
+  "notch": 0.004172217100858688,
+  "dark": 0.007569444444444445,
+  "purity": 11.35820214629277,
+  "peak": 765.0
+ },
+ "images/train/scratch/img_2_014.png": {
+  "notch": 0.006266449578106403,
+  "dark": 0.004748263888888889,
+  "purity": 9.290103465998834,
+  "peak": 628.0
+ },
+ "images/train/scratch/img_2_015.png": {
+  "notch": 0.010240783914923668,
+  "dark": 0.02526909722222222,
+  "purity": 6.674028186901605,
+  "peak": 952.0
+ },
+ "images/train/scratch/img_2_016.png": {
+  "notch": 0.006252854131162167,
+  "dark": 0.011597222222222222,
+  "purity": 8.00948885553688,
+  "peak": 800.0
+ },
+ "images/train/scratch/img_2_017.png": {
+  "notch": 0.00457164878025651,
+  "dark": 0.023411458333333333,
+  "purity": 5.631329582467541,
+  "peak": 577.0
+ },
+ "images/train/scratch/img_2_018.png": {
+  "notch": 0.004264414310455322,
+  "dark": 0.011059027777777777,
+  "purity": 5.766129032258064,
+  "peak": 572.0
+ },
+ "images/train/scratch/img_2_019.png": {
+  "notch": 0.004814170300960541,
+  "dark": 0.024184027777777777,
+  "purity": 5.922017855368457,
+  "peak": 609.0
+ },
+ "images/train/scratch/img_2_020.png": {
+  "notch": 0.005384452641010284,
+  "dark": 0.029539930555555555,
+  "purity": 5.185136526456614,
+  "peak": 574.0
+ },
+ "images/train/scratch/img_2_021.png": {
+  "notch": 0.0061109475791454315,
+  "dark": 0.009539930555555555,
+  "purity": 5.495942129414672,
+  "peak": 485.0
+ },
+ "images/train/scratch/img_2_022.png": {
+  "notch": 0.00547203840687871,
+  "dark": 0.009131944444444444,
+  "purity": 5.352043063756223,
+  "peak": 510.0
+ },
+ "images/train/scratch/img_2_023.png": {
+  "notch": 0.008882187306880951,
+  "dark": 0.0066840277777777775,
+  "purity": 4.696676229268205,
+  "peak": 403.0
+ },
+ "images/train/scratch/img_2_024.png": {
+  "notch": 0.0037457800935953856,
+  "dark": 0.004583333333333333,
+  "purity": 5.712589548010035,
+  "peak": 346.0
+ },
+ "images/train/scratch/img_2_025.png": {
+  "notch": 0.004789486527442932,
+  "dark": 0.006631944444444445,
+  "purity": 9.247708767665358,
+  "peak": 697.0
+ },
+ "images/train/scratch/img_2_026.png": {
+  "notch": 0.005418372806161642,
+  "dark": 0.007361111111111111,
+  "purity": 6.536824819356558,
+  "peak": 657.0
+ },
+ "images/train/scratch/img_2_027.png": {
+  "notch": 0.006548877339810133,
+  "dark": 0.020850694444444446,
+  "purity": 5.263977869816737,
+  "peak": 662.0
+ },
+ "images/train/scratch/img_2_028.png": {
+  "notch": 0.007538580801337957,
+  "dark": 0.011024305555555556,
+  "purity": 8.748424940619618,
+  "peak": 760.0
+ },
+ "images/train/scratch/img_2_029.png": {
+  "notch": 0.010369264520704746,
+  "dark": 0.02068576388888889,
+  "purity": 6.13662084386441,
+  "peak": 923.0
+ },
+ "images/train/scratch/img_2_030.png": {
+  "notch": 0.006421292666345835,
+  "dark": 0.01310763888888889,
+  "purity": 6.885316808153283,
+  "peak": 684.0
+ },
+ "images/train/scratch/img_2_031.png": {
+  "notch": 0.005445554386824369,
+  "dark": 0.007430555555555556,
+  "purity": 5.472154783625537,
+  "peak": 441.0
+ },
+ "images/train/scratch/img_2_032.png": {
+  "notch": 0.005768361035734415,
+  "dark": 0.00703125,
+  "purity": 9.3818361805231,
+  "peak": 655.0
+ },
+ "images/train/scratch/img_2_033.png": {
+  "notch": 0.00436188280582428,
+  "dark": 0.008585069444444444,
+  "purity": 10.877655024847517,
+  "peak": 516.0
+ },
+ "images/train/scratch/img_2_034.png": {
+  "notch": 0.007189060095697641,
+  "dark": 0.02722222222222222,
+  "purity": 6.449598839555614,
+  "peak": 826.0
+ },
+ "images/train/scratch/img_2_035.png": {
+  "notch": 0.004235835280269384,
+  "dark": 0.006631944444444445,
+  "purity": 10.207596882293686,
+  "peak": 769.0
+ },
+ "images/train/scratch/img_2_036.png": {
+  "notch": 0.003995602950453758,
+  "dark": 0.009149305555555556,
+  "purity": 5.982030629222509,
+  "peak": 566.0
+ },
+ "images/train/scratch/img_2_037.png": {
+  "notch": 0.005516795441508293,
+  "dark": 0.00920138888888889,
+  "purity": 7.074483337569801,
+  "peak": 869.0
+ },
+ "images/train/scratch/img_2_038.png": {
+  "notch": 0.006119200959801674,
+  "dark": 0.011440972222222222,
+  "purity": 6.235946233187793,
+  "peak": 637.0
+ },
+ "images/train/scratch/img_2_039.png": {
+  "notch": 0.007931371219456196,
+  "dark": 0.025121527777777777,
+  "purity": 6.237635991848067,
+  "peak": 840.0
+ },
+ "images/train/scratch/img_2_040.png": {
+  "notch": 0.006346157751977444,
+  "dark": 0.02964409722222222,
+  "purity": 6.492780898107689,
+  "peak": 896.0
+ },
+ "images/val/scratch/img_2_041.png": {
+  "notch": 0.010706819593906403,
+  "dark": 0.019470486111111112,
+  "purity": 5.297044998743288,
+  "peak": 637.0
+ },
+ "images/val/scratch/img_2_042.png": {
+  "notch": 0.005505913868546486,
+  "dark": 0.013984375,
+  "purity": 3.8257175931021274,
+  "peak": 383.0
+ },
+ "images/val/scratch/img_2_043.png": {
+  "notch": 0.005941930692642927,
+  "dark": 0.008706597222222221,
+  "purity": 7.103699959608886,
+  "peak": 604.0
+ },
+ "images/val/scratch/img_2_044.png": {
+  "notch": 0.010278738103806973,
+  "dark": 0.01745659722222222,
+  "purity": 4.741621732455732,
+  "peak": 516.0
+ },
+ "images/val/scratch/img_2_045.png": {
+  "notch": 0.006031954661011696,
+  "dark": 0.002916666666666667,
+  "purity": 9.591943110447925,
+  "peak": 611.0
+ },
+ "images/val/scratch/img_2_046.png": {
+  "notch": 0.006206706166267395,
+  "dark": 0.006883680555555555,
+  "purity": 5.962625049752838,
+  "peak": 461.0
+ },
+ "images/val/scratch/img_2_047.png": {
+  "notch": 0.007106403820216656,
+  "dark": 0.00978298611111111,
+  "purity": 6.673376930975395,
+  "peak": 641.0
+ },
+ "images/val/scratch/img_2_048.png": {
+  "notch": 0.005593976005911827,
+  "dark": 0.027725694444444445,
+  "purity": 6.862870983843422,
+  "peak": 764.0
+ },
+ "images/val/scratch/img_2_049.png": {
+  "notch": 0.005112163722515106,
+  "dark": 0.004105902777777778,
+  "purity": 7.551349017487816,
+  "peak": 330.0
+ },
+ "images/val/scratch/img_2_050.png": {
+  "notch": 0.004275086801499128,
+  "dark": 0.007578125,
+  "purity": 9.844427442865955,
+  "peak": 608.0
+ },
+ "images/train/stain/img_3_001.png": {
+  "notch": 0.041346609592437744,
+  "dark": 0.10498263888888888,
+  "purity": 3.071815571817108,
+  "peak": 387.0
+ },
+ "images/train/stain/img_3_002.png": {
+  "notch": 0.005559995770454407,
+  "dark": 0.008923611111111111,
+  "purity": 5.062946893318207,
+  "peak": 614.0
+ },
+ "images/train/stain/img_3_003.png": {
+  "notch": 0.00753465062007308,
+  "dark": 0.034826388888888886,
+  "purity": 1.2560449402655778,
+  "peak": 54.0
+ },
+ "images/train/stain/img_3_004.png": {
+  "notch": 0.028272287920117378,
+  "dark": 0.08518229166666667,
+  "purity": 3.6906773864040874,
+  "peak": 892.0
+ },
+ "images/train/stain/img_3_005.png": {
+  "notch": 0.008840933442115784,
+  "dark": 0.034791666666666665,
+  "purity": 1.0968809159674913,
+  "peak": 46.0
+ },
+ "images/train/stain/img_3_006.png": {
+  "notch": 0.011728507466614246,
+  "dark": 0.02665798611111111,
+  "purity": 1.4247809546585355,
+  "peak": 65.0
+ },
+ "images/train/stain/img_3_007.png": {
+  "notch": 0.024032369256019592,
+  "dark": 0.15914930555555556,
+  "purity": 1.2956353668055962,
+  "peak": 102.0
+ },
+ "images/train/stain/img_3_008.png": {
+  "notch": 0.04252047464251518,
+  "dark": 0.12043402777777777,
+  "purity": 1.5898807577634508,
+  "peak": 131.0
+ },
+ "images/train/stain/img_3_009.png": {
+  "notch": 0.003683665068820119,
+  "dark": 0.12608506944444445,
+  "purity": 3.83200300765269,
+  "peak": 736.0
+ },
+ "images/train/stain/img_3_010.png": {
+  "notch": 0.0035417508333921432,
+  "dark": 0.020225694444444445,
+  "purity": 1.1826247919781652,
+  "peak": 32.0
+ },
+ "images/train/stain/img_3_011.png": {
+  "notch": 0.005965271033346653,
+  "dark": 0.07311631944444444,
+  "purity": 3.7002415174691317,
+  "peak": 236.0
+ },
+ "images/train/stain/img_3_012.png": {
+  "notch": 0.0036731718573719263,
+  "dark": 0.09356770833333333,
+  "purity": 2.9852926696013986,
+  "peak": 404.0
+ },
+ "images/train/stain/img_3_013.png": {
+  "notch": 0.018955783918499947,
+  "dark": 0.14428819444444443,
+  "purity": 4.212153957058878,
+  "peak": 482.0
+ },
+ "images/train/stain/img_3_014.png": {
+  "notch": 0.003647784935310483,
+  "dark": 0.046171875,
+  "purity": 3.408781768100342,
+  "peak": 324.0
+ },
+ "images/train/stain/img_3_015.png": {
+  "notch": 0.0038962364196777344,
+  "dark": 0.033289930555555555,
+  "purity": 1.0215867658706332,
+  "peak": 46.0
+ },
+ "images/train/stain/img_3_016.png": {
+  "notch": 0.0035179993137717247,
+  "dark": 0.022335069444444446,
+  "purity": 1.0953866959443488,
+  "peak": 30.0
+ },
+ "images/train/stain/img_3_017.png": {
+  "notch": 0.004008790012449026,
+  "dark": 0.0165625,
+  "purity": 4.522371590263251,
+  "peak": 353.0
+ },
+ "images/train/stain/img_3_018.png": {
+  "notch": 0.005643846467137337,
+  "dark": 0.015572916666666667,
+  "purity": 4.007639779966984,
+  "peak": 317.0
+ },
+ "images/train/stain/img_3_019.png": {
+  "notch": 0.00857871025800705,
+  "dark": 0.03765625,
+  "purity": 0.937125224850105,
+  "peak": 25.0
+ },
+ "images/train/stain/img_3_020.png": {
+  "notch": 0.00667457515373826,
+  "dark": 0.020364583333333332,
+  "purity": 5.044373870984297,
+  "peak": 492.0
+ },
+ "images/train/stain/img_3_021.png": {
+  "notch": 0.030342023819684982,
+  "dark": 0.17261284722222223,
+  "purity": 1.2466259961220079,
+  "peak": 97.0
+ },
+ "images/train/stain/img_3_022.png": {
+  "notch": 0.008731505833566189,
+  "dark": 0.027751736111111112,
+  "purity": 1.3554256217958756,
+  "peak": 75.0
+ },
+ "images/train/stain/img_3_023.png": {
+  "notch": 0.012901822105050087,
+  "dark": 0.14829861111111112,
+  "purity": 1.3403837319573446,
+  "peak": 108.0
+ },
+ "images/train/stain/img_3_024.png": {
+  "notch": 0.00580226257443428,
+  "dark": 0.06669270833333334,
+  "purity": 1.1585688927269846,
+  "peak": 32.0
+ },
+ "images/train/stain/img_3_025.png": {
+  "notch": 0.003699095454066992,
+  "dark": 0.03576388888888889,
+  "purity": 1.1111111111111112,
+  "peak": 32.0
+ },
+ "images/train/stain/img_3_026.png": {
+  "notch": 0.005824212450534105,
+  "dark": 0.014592013888888889,
+  "purity": 4.456900791346407,
+  "peak": 470.0
+ },
+ "images/train/stain/img_3_027.png": {
+  "notch": 0.01605956442654133,
+  "dark": 0.17997395833333332,
+  "purity": 5.190005463028573,
+  "peak": 872.0
+ },
+ "images/train/stain/img_3_028.png": {
+  "notch": 0.003647784935310483,
+  "dark": 0.09069444444444444,
+  "purity": 4.597956917509701,
+  "peak": 552.0
+ },
+ "images/train/stain/img_3_029.png": {
+  "notch": 0.029088636860251427,
+  "dark": 0.10624131944444444,
+  "purity": 3.00252407738022,
+  "peak": 491.0
+ },
+ "images/train/stain/img_3_030.png": {
+  "notch": 0.0037168844137340784,
+  "dark": 0.12160590277777777,
+  "purity": 0.773565934694095,
+  "peak": 12.0
+ },
+ "images/train/stain/img_3_031.png": {
+  "notch": 0.00943424366414547,
+  "dark": 0.026336805555555554,
+  "purity": 1.2333325875542163,
+  "peak": 42.0
+ },
+ "images/train/stain/img_3_032.png": {
+  "notch": 0.003954744897782803,
+  "dark": 0.0653732638888889,
+  "purity": 1.007682699234401,
+  "peak": 45.0
+ },
+ "images/train/stain/img_3_033.png": {
+  "notch": 0.027210844680666924,
+  "dark": 0.1763715277777778,
+  "purity": 1.4581820726499326,
+  "peak": 118.0
+ },
+ "images/train/stain/img_3_034.png": {
+  "notch": 0.0072221639566123486,
+  "dark": 0.022977430555555556,
+  "purity": 1.2820301051364553,
+  "peak": 47.0
+ },
+ "images/train/stain/img_3_035.png": {
+  "notch": 0.003716181730851531,
+  "dark": 0.0064670138888888885,
+  "purity": 3.0369496289753473,
+  "peak": 194.0
+ },
+ "images/train/stain/img_3_036.png": {
+  "notch": 0.003683665068820119,
+  "dark": 0.15052083333333333,
+  "purity": 0.9780948625696718,
+  "peak": 23.0
+ },
+ "images/train/stain/img_3_037.png": {
+  "notch": 0.006203613709658384,
+  "dark": 0.02953125,
+  "purity": 0.9962709627734356,
+  "peak": 32.0
+ },
+ "images/train/stain/img_3_038.png": {
+  "notch": 0.0045923045836389065,
+  "dark": 0.03724826388888889,
+  "purity": 4.016518528798836,
+  "peak": 321.0
+ },
+ "images/train/stain/img_3_039.png": {
+  "notch": 0.006843377370387316,
+  "dark": 0.047239583333333335,
+  "purity": 1.3923476025367203,
+  "peak": 53.0
+ },
+ "images/train/stain/img_3_040.png": {
+  "notch": 0.03497450426220894,
+  "dark": 0.03895833333333333,
+  "purity": 3.0130530945912986,
+  "peak": 764.0
+ },
+ "images/val/stain/img_3_041.png": {
+  "notch": 0.018510352820158005,
+  "dark": 0.14652777777777778,
+  "purity": 1.3588492898447455,
+  "peak": 106.0
+ },
+ "images/val/stain/img_3_042.png": {
+  "notch": 0.017987240105867386,
+  "dark": 0.04098090277777778,
+  "purity": 2.3562797542306773,
+  "peak": 364.0
+ },
+ "images/val/stain/img_3_043.png": {
+  "notch": 0.04764949902892113,
+  "dark": 0.15296875,
+  "purity": 2.8382082810748153,
+  "peak": 399.0
+ },
+ "images/val/stain/img_3_044.png": {
+  "notch": 0.005854957737028599,
+  "dark": 0.026111111111111113,
+  "purity": 1.0552668020743423,
+  "peak": 33.0
+ },
+ "images/val/stain/img_3_045.png": {
+  "notch": 0.005159167107194662,
+  "dark": 0.059166666666666666,
+  "purity": 0.8219949365267863,
+  "peak": 16.0
+ },
+ "images/val/stain/img_3_046.png": {
+  "notch": 0.0038856863975524902,
+  "dark": 0.03418402777777778,
+  "purity": 1.0179731971185753,
+  "peak": 32.0
+ },
+ "images/val/stain/img_3_047.png": {
+  "notch": 0.0038856863975524902,
+  "dark": 0.025008680555555555,
+  "purity": 1.0614897848685505,
+  "peak": 32.0
+ },
+ "images/val/stain/img_3_048.png": {
+  "notch": 0.018763752654194832,
+  "dark": 0.20082465277777778,
+  "purity": 1.252237668299807,
+  "peak": 69.0
+ },
+ "images/val/stain/img_3_049.png": {
+  "notch": 0.022528301924467087,
+  "dark": 0.06709201388888889,
+  "purity": 3.5293288515180583,
+  "peak": 827.0
+ },
+ "images/val/stain/img_3_050.png": {
+  "notch": 0.003647784935310483,
+  "dark": 0.05095486111111111,
+  "purity": 1.1995202878081344,
+  "peak": 32.0
+ }
+}

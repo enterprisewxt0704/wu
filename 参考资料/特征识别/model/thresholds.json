@@ -1,0 +1,49 @@
+{
+  "features": {
+    "notch": 0.02415023103053079,
+    "dark": 0.0032335069444444442,
+    "purity": 2.733635059607465,
+    "peak": 234.55,
+    "dark_big": 0.02899739583333333
+  },
+  "anomaly": {
+    "z_cap": 30.0,
+    "low": 0.8214314809252179,
+    "high": 0.9868122942286561
+  },
+  "decision": {
+    "low": 0.8214314809252179,
+    "high": 0.9868122942286561,
+    "conf_min": 0.95,
+    "pass_normal_prob": 0.9
+  },
+  "provenance": {
+    "fit_split": "train",
+    "n_train": 160,
+    "why": {
+      "notch": "两群分开：几何中点",
+      "dark": "两群重叠：train 扫描最优（平衡准确率 1.000）",
+      "purity": "两群分开：几何中点",
+      "peak": "两群分开：算术中点",
+      "dark_big": "污渍 train 的 30% 分位与 2.5×dark 阈值取大",
+      "_stats": "train 各群中位数：凹陷率 normal 0.0037/notch 0.1470；暗斑 normal 0.0000/stain 0.0426；纯度 normal 1.07/scratch 6.47；峰值 normal 35/scratch 628"
+    },
+    "anomaly_info": {
+      "train_normal_p50": 0.05234685605649686,
+      "train_normal_p95": 0.1180969762996954,
+      "train_normal_recheck_rate": 0.0,
+      "train_defect_min": 0.8646647167633873,
+      "train_defect_p50": 0.9990975663445087,
+      "train_defect_reject_rate": 0.75
+    },
+    "cv": {
+      "rule": 0.95625,
+      "centroid": 0.8875,
+      "logreg": 0.975,
+      "tree": 0.96875,
+      "hybrid": 0.95625
+    },
+    "selected": "logreg",
+    "generated_at": "2026-11-08 13:53:18"
+  }
+}

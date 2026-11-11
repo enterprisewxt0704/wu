@@ -1,0 +1,106 @@
+{
+  "_说明": "全部可调参数集中在此文件。修改后重新运行 tune.py 会覆盖 thresholds 与 model/*.json。",
+  "dataset_root": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset",
+  "labels_csv": "labels_train_val.csv",
+  "splits": {
+    "fit": "train",
+    "report": "val",
+    "unlabeled": "test_unlabeled"
+  },
+  "classes": [
+    "normal",
+    "notch",
+    "scratch",
+    "stain"
+  ],
+  "class_cn": {
+    "normal": "正常",
+    "notch": "缺口",
+    "scratch": "划痕",
+    "stain": "污渍"
+  },
+  "defect_classes": [
+    "notch",
+    "scratch",
+    "stain"
+  ],
+  "paths": {
+    "model_dir": "model",
+    "out_dir": "out",
+    "record_csv": "records.csv"
+  },
+  "features": {
+    "chroma_thresh": 45,
+    "radius_percentile": 99.5,
+    "unwrap_angles": 720,
+    "unwrap_radii": 160,
+    "r_min": 0.1,
+    "r_max": 0.86,
+    "rim_bins": 720,
+    "dark_split": -0.1,
+    "dark_chroma_ratio": 0.8,
+    "bright_split": 0.08,
+    "inner_r": 0.72,
+    "line_step": 1.5,
+    "line_angles": 90
+  },
+  "thresholds": {
+    "notch": 0.02415,
+    "dark": 0.003234,
+    "purity": 2.733635,
+    "peak": 234.55,
+    "dark_big": 0.028997
+  },
+  "anomaly": {
+    "_说明": "baseline.json 存正常品的 median / MAD；Z_CAP 只用于把 z 截断到 30，保证数值稳定。",
+    "z_cap": 30.0
+  },
+  "decision": {
+    "_说明": "串联决策阈值。low/high 由 optimize.py 按“最大裕度”定在 train 的空档带里；conf_min 只决定是否标“未知缺陷”。",
+    "low": 0.2217,
+    "high": 0.8308,
+    "conf_min": 0.98,
+    "pass_normal_prob": 0.9,
+    "policy": "risk_averse",
+    "band": [
+      0.05,
+      0.95
+    ]
+  },
+  "presets": {
+    "risk_averse": {
+      "low": 0.2217,
+      "high": 0.8308,
+      "conf_min": 0.98
+    },
+    "balanced": {
+      "low": 0.3909,
+      "high": 0.6617,
+      "conf_min": 0.98
+    },
+    "demo_recheck": {
+      "low": 0.8214,
+      "high": 0.9868,
+      "conf_min": 0.95
+    },
+    "course": {
+      "low": 0.5,
+      "high": 0.9
+    },
+    "starter_kit": {
+      "low": 0.2,
+      "high": 0.8
+    }
+  },
+  "runtime": {
+    "simulate_actuator": true,
+    "actuator_delay_ms": 60,
+    "actuator_fail_rate": 0.0,
+    "record_csv": "records.csv",
+    "image_size": 512
+  },
+  "model": {
+    "selected_classifier": "logreg",
+    "cv_accuracy": 0.975
+  }
+}

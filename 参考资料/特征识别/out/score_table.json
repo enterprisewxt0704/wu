@@ -1,0 +1,1802 @@
+[
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_001.png",
+  "score": 0.10633058541982332,
+  "pred": "normal",
+  "conf": 0.9874992559419422,
+  "p_normal": 0.9874992559419422
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_002.png",
+  "score": 0.33419147983693864,
+  "pred": "notch",
+  "conf": 0.9878148805825009,
+  "p_normal": 0.010828020486643535
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_003.png",
+  "score": 0.10293707523444118,
+  "pred": "normal",
+  "conf": 0.9883466520379326,
+  "p_normal": 0.9883466520379326
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_004.png",
+  "score": 0.12070607164367952,
+  "pred": "normal",
+  "conf": 0.9756308553636954,
+  "p_normal": 0.9756308553636954
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_005.png",
+  "score": 0.06306988172198336,
+  "pred": "normal",
+  "conf": 0.9984857341352213,
+  "p_normal": 0.9984857341352213
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_006.png",
+  "score": 0.04409952626904734,
+  "pred": "normal",
+  "conf": 0.9986509107723387,
+  "p_normal": 0.9986509107723387
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_007.png",
+  "score": 0.0996149344357008,
+  "pred": "normal",
+  "conf": 0.9872206770936701,
+  "p_normal": 0.9872206770936701
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_008.png",
+  "score": 0.024745071320332213,
+  "pred": "normal",
+  "conf": 0.9987987809873928,
+  "p_normal": 0.9987987809873928
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_009.png",
+  "score": 0.0996175608803418,
+  "pred": "normal",
+  "conf": 0.9885598345071459,
+  "p_normal": 0.9885598345071459
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_010.png",
+  "score": 0.10633315154270095,
+  "pred": "normal",
+  "conf": 0.9831757204862962,
+  "p_normal": 0.9831757204862962
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_011.png",
+  "score": 0.11698857215857295,
+  "pred": "normal",
+  "conf": 0.9795260073776587,
+  "p_normal": 0.9795260073776587
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_012.png",
+  "score": 0.07912292502943052,
+  "pred": "normal",
+  "conf": 0.9988128105294038,
+  "p_normal": 0.9988128105294038
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_013.png",
+  "score": 0.0,
+  "pred": "normal",
+  "conf": 0.9989649964021114,
+  "p_normal": 0.9989649964021114
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_014.png",
+  "score": 0.07700199058372259,
+  "pred": "normal",
+  "conf": 0.9988149637444951,
+  "p_normal": 0.9988149637444951
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_015.png",
+  "score": 0.04689683594033178,
+  "pred": "normal",
+  "conf": 0.9989106237399339,
+  "p_normal": 0.9989106237399339
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_016.png",
+  "score": 0.10294226784796134,
+  "pred": "normal",
+  "conf": 0.9849529572361412,
+  "p_normal": 0.9849529572361412
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_017.png",
+  "score": 0.05519067850265347,
+  "pred": "normal",
+  "conf": 0.9988591850882729,
+  "p_normal": 0.9988591850882729
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_018.png",
+  "score": 0.10633575839014298,
+  "pred": "normal",
+  "conf": 0.9860564727221103,
+  "p_normal": 0.9860564727221103
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_019.png",
+  "score": 0.10293707523444118,
+  "pred": "normal",
+  "conf": 0.9883212287084857,
+  "p_normal": 0.9883212287084857
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_020.png",
+  "score": 0.12070354679197481,
+  "pred": "normal",
+  "conf": 0.9838339800948994,
+  "p_normal": 0.9838339800948994
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_021.png",
+  "score": 0.12070607164367952,
+  "pred": "normal",
+  "conf": 0.9840967562582094,
+  "p_normal": 0.9840967562582094
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_022.png",
+  "score": 0.15192289593145225,
+  "pred": "normal",
+  "conf": 0.9699253527594954,
+  "p_normal": 0.9699253527594954
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_023.png",
+  "score": 0.11336231168164634,
+  "pred": "normal",
+  "conf": 0.9865380334166812,
+  "p_normal": 0.9865380334166812
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_024.png",
+  "score": 0.024745071320332213,
+  "pred": "normal",
+  "conf": 0.9987987809873928,
+  "p_normal": 0.9987987809873928
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_025.png",
+  "score": 0.12451125662590479,
+  "pred": "normal",
+  "conf": 0.990579341666397,
+  "p_normal": 0.990579341666397
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_026.png",
+  "score": 0.10633315154270095,
+  "pred": "normal",
+  "conf": 0.9831757204862962,
+  "p_normal": 0.9831757204862962
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_027.png",
+  "score": 0.09636754194840047,
+  "pred": "normal",
+  "conf": 0.9895122436818977,
+  "p_normal": 0.9895122436818977
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_028.png",
+  "score": 0.10633315154270095,
+  "pred": "normal",
+  "conf": 0.9825608385532164,
+  "p_normal": 0.9825608385532164
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_029.png",
+  "score": 0.10294226784796134,
+  "pred": "normal",
+  "conf": 0.984414949247839,
+  "p_normal": 0.984414949247839
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_030.png",
+  "score": 0.10293707523444118,
+  "pred": "normal",
+  "conf": 0.9860444929015143,
+  "p_normal": 0.9860444929015143
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_031.png",
+  "score": 0.12451127657766392,
+  "pred": "normal",
+  "conf": 0.9815850505614118,
+  "p_normal": 0.9815850505614118
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_032.png",
+  "score": 0.10633315154270095,
+  "pred": "normal",
+  "conf": 0.9825608385532164,
+  "p_normal": 0.9825608385532164
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_033.png",
+  "score": 0.10633575839014298,
+  "pred": "normal",
+  "conf": 0.987552300531145,
+  "p_normal": 0.987552300531145
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_034.png",
+  "score": 0.11698853191218017,
+  "pred": "normal",
+  "conf": 0.9846393738813533,
+  "p_normal": 0.9846393738813533
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_035.png",
+  "score": 0.11698853191218017,
+  "pred": "normal",
+  "conf": 0.9852807592071682,
+  "p_normal": 0.9852807592071682
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_036.png",
+  "score": 0.11698857215857295,
+  "pred": "normal",
+  "conf": 0.9795260073776587,
+  "p_normal": 0.9795260073776587
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_037.png",
+  "score": 0.10980764626880235,
+  "pred": "normal",
+  "conf": 0.9863461567576194,
+  "p_normal": 0.9863461567576194
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_038.png",
+  "score": 0.18785015983356212,
+  "pred": "normal",
+  "conf": 0.9693758793726733,
+  "p_normal": 0.9693758793726733
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_039.png",
+  "score": 0.11698853191218017,
+  "pred": "normal",
+  "conf": 0.9846393738813533,
+  "p_normal": 0.9846393738813533
+ },
+ {
+  "split": "train",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\normal\\img_0_040.png",
+  "score": 0.03713238306916744,
+  "pred": "normal",
+  "conf": 0.9988978806952895,
+  "p_normal": 0.9988978806952895
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_041.png",
+  "score": 0.12451125662590479,
+  "pred": "normal",
+  "conf": 0.9749141495654197,
+  "p_normal": 0.9749141495654197
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_042.png",
+  "score": 0.12451125662590479,
+  "pred": "normal",
+  "conf": 0.9809466018389195,
+  "p_normal": 0.9809466018389195
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_043.png",
+  "score": 0.05727793398130687,
+  "pred": "normal",
+  "conf": 0.998857198968623,
+  "p_normal": 0.998857198968623
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_044.png",
+  "score": 0.12070607164367952,
+  "pred": "normal",
+  "conf": 0.984751798727309,
+  "p_normal": 0.984751798727309
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_045.png",
+  "score": 0.0996175608803418,
+  "pred": "normal",
+  "conf": 0.9875365430362275,
+  "p_normal": 0.9875365430362275
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_046.png",
+  "score": 0.10293707523444118,
+  "pred": "normal",
+  "conf": 0.9856564644386857,
+  "p_normal": 0.9856564644386857
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_047.png",
+  "score": 0.07280598573337005,
+  "pred": "normal",
+  "conf": 0.9988191953637298,
+  "p_normal": 0.9988191953637298
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_048.png",
+  "score": 0.11335972533088712,
+  "pred": "normal",
+  "conf": 0.9789139429268601,
+  "p_normal": 0.9789139429268601
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_049.png",
+  "score": 0.12070350671490515,
+  "pred": "normal",
+  "conf": 0.9779017220632912,
+  "p_normal": 0.9779017220632912
+ },
+ {
+  "split": "val",
+  "cls": "normal",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\normal\\img_0_050.png",
+  "score": 0.09636754194840047,
+  "pred": "normal",
+  "conf": 0.9880004016289511,
+  "p_normal": 0.9880004016289511
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_001.png",
+  "score": 0.999962244182498,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 5.0665163870470095e-173
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_002.png",
+  "score": 0.9799569510556777,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.8372665823944143e-63
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_003.png",
+  "score": 0.9984869837994163,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.5391280795160204e-108
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_004.png",
+  "score": 0.9995386521329116,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.2517400991419997e-130
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_005.png",
+  "score": 0.9995148967786883,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 8.442256326421826e-129
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_006.png",
+  "score": 0.9999812757053945,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.166460351555687e-185
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_007.png",
+  "score": 0.9991532723160268,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.402182825235041e-119
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_008.png",
+  "score": 0.9999840249234764,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.3999841051355777e-188
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_009.png",
+  "score": 0.9993681335990826,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 7.718902345243069e-124
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_010.png",
+  "score": 0.9991614396255825,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.38152639964897e-119
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_011.png",
+  "score": 0.9999557996808778,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.3735859179808861e-170
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_012.png",
+  "score": 0.999966295521668,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.972784058432091e-175
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_013.png",
+  "score": 0.9832837625712715,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.0357742771412825e-65
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_014.png",
+  "score": 0.9999669819866459,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.6296315293297116e-175
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_015.png",
+  "score": 0.9991532704635785,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.3158666427198487e-119
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_016.png",
+  "score": 0.9863140496970054,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 9.007439015912445e-70
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_017.png",
+  "score": 0.9991532698460949,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.14930227983002e-119
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_018.png",
+  "score": 0.9991532673761556,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.3287737902678295e-119
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_019.png",
+  "score": 0.9994321256554276,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.8410081023772307e-126
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_020.png",
+  "score": 0.9999781789911766,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.631506157020879e-183
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_021.png",
+  "score": 0.9858735067631418,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.532262591729047e-70
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_022.png",
+  "score": 0.9916602528493647,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.650692676053841e-79
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_023.png",
+  "score": 0.9989664036829909,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.578640555927056e-115
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_024.png",
+  "score": 0.9832837138094673,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.7312540130803745e-67
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_025.png",
+  "score": 0.9999883047677014,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 9.443958690592263e-194
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_026.png",
+  "score": 0.9995386517964704,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.7716463036490276e-130
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_027.png",
+  "score": 0.9916602315629708,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.420929813675829e-79
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_028.png",
+  "score": 0.9916602558902736,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.4103755610081504e-79
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_029.png",
+  "score": 0.9878800929593352,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.3441583795627561e-71
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_030.png",
+  "score": 0.9990584038578656,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.838047594999526e-117
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_031.png",
+  "score": 0.988623189128714,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.040202555689288e-73
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_032.png",
+  "score": 0.999367321621341,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.4811539951159753e-124
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_033.png",
+  "score": 0.9987633756591076,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.2071848280567106e-112
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_034.png",
+  "score": 0.9766400396179101,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.9561886782409903e-61
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_035.png",
+  "score": 0.9999812757190494,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.0340050812015929e-185
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_036.png",
+  "score": 0.9766399799938822,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.5718986715002553e-60
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_037.png",
+  "score": 0.9777738983040247,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.9210939058377016e-62
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_038.png",
+  "score": 0.9938865191753464,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.567162147506418e-85
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_039.png",
+  "score": 0.9916602528493647,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 6.584353723800987e-80
+ },
+ {
+  "split": "train",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\notch\\img_1_040.png",
+  "score": 0.9858735531213645,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.333324345036581e-70
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_041.png",
+  "score": 0.9986519240639382,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.0689496527956261e-110
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_042.png",
+  "score": 0.999367323466879,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 3.565299630592386e-124
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_043.png",
+  "score": 0.9993681317559079,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.689963130864532e-124
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_044.png",
+  "score": 0.9989841542468818,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.130334936261987e-116
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_045.png",
+  "score": 0.9991443518183787,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.529506506480239e-119
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_046.png",
+  "score": 0.9866841822261927,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 2.34318091771067e-71
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_047.png",
+  "score": 0.9988910860320868,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 5.3713541649320594e-114
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_048.png",
+  "score": 0.9999863113359102,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 4.842218206862251e-191
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_049.png",
+  "score": 0.9871103052311212,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 1.7780625458495353e-70
+ },
+ {
+  "split": "val",
+  "cls": "notch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\notch\\img_1_050.png",
+  "score": 0.9984869716622132,
+  "pred": "notch",
+  "conf": 1.0,
+  "p_normal": 6.020044040766039e-109
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_001.png",
+  "score": 0.9736306212599407,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 7.531404796800318e-31
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_002.png",
+  "score": 0.9843590991263128,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 2.2616292124614108e-35
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_003.png",
+  "score": 0.9847195090511004,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 4.440568967558528e-35
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_004.png",
+  "score": 0.9258094659340967,
+  "pred": "scratch",
+  "conf": 0.9999999999994134,
+  "p_normal": 1.2086625188933668e-23
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_005.png",
+  "score": 0.9191723558671064,
+  "pred": "scratch",
+  "conf": 0.9999999777369699,
+  "p_normal": 1.7006547505482877e-22
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_006.png",
+  "score": 0.9784769227097109,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 3.1604920321813294e-41
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_007.png",
+  "score": 0.9758757142361666,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 2.71899076352154e-27
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_008.png",
+  "score": 0.9865608808416321,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.7025188049046564e-35
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_009.png",
+  "score": 0.9811860067162907,
+  "pred": "scratch",
+  "conf": 0.9999999999997549,
+  "p_normal": 2.494438604339934e-37
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_010.png",
+  "score": 0.9895093300870776,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.0408638554142517e-48
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_011.png",
+  "score": 0.9877824318263666,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 7.716350283093178e-40
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_012.png",
+  "score": 0.9995529104634161,
+  "pred": "scratch",
+  "conf": 0.9673897265192504,
+  "p_normal": 6.4689869742475366e-43
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_013.png",
+  "score": 0.9979094485096849,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.6520637864564076e-55
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_014.png",
+  "score": 0.9928223049276452,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 3.921565058772816e-43
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_015.png",
+  "score": 0.9995995088110995,
+  "pred": "scratch",
+  "conf": 0.999994289982297,
+  "p_normal": 2.6160706331877598e-51
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_016.png",
+  "score": 0.9844362815891651,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 6.225174886456542e-45
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_017.png",
+  "score": 0.9992828807809605,
+  "pred": "stain",
+  "conf": 0.6033315566894761,
+  "p_normal": 6.837422937511355e-39
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_018.png",
+  "score": 0.9672919556971643,
+  "pred": "scratch",
+  "conf": 0.9999999999668425,
+  "p_normal": 4.96375716180879e-31
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_019.png",
+  "score": 0.9994352879658815,
+  "pred": "scratch",
+  "conf": 0.8200791142314041,
+  "p_normal": 7.531256667200165e-41
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_020.png",
+  "score": 0.9998922363839379,
+  "pred": "stain",
+  "conf": 0.9999999178922748,
+  "p_normal": 1.4042528111165776e-47
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_021.png",
+  "score": 0.9476778547646887,
+  "pred": "scratch",
+  "conf": 0.9999999998657949,
+  "p_normal": 2.1576369944260222e-27
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_022.png",
+  "score": 0.9406415667095042,
+  "pred": "scratch",
+  "conf": 0.9999999998484801,
+  "p_normal": 5.8506191083641706e-27
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_023.png",
+  "score": 0.8865984575028057,
+  "pred": "scratch",
+  "conf": 0.9999999939723698,
+  "p_normal": 9.548834354472918e-21
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_024.png",
+  "score": 0.9383232641047619,
+  "pred": "scratch",
+  "conf": 0.9999999999998779,
+  "p_normal": 9.379880751056206e-23
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_025.png",
+  "score": 0.9925913808891542,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 2.8266983180740344e-45
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_026.png",
+  "score": 0.9623705354160975,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.901622295930906e-33
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_027.png",
+  "score": 0.9984168237224517,
+  "pred": "scratch",
+  "conf": 0.9331160005594856,
+  "p_normal": 8.75099006632944e-37
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_028.png",
+  "score": 0.9900062599886879,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 4.811141403139557e-47
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_029.png",
+  "score": 0.9983339761777026,
+  "pred": "scratch",
+  "conf": 0.9999999268323847,
+  "p_normal": 6.241725777456006e-45
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_030.png",
+  "score": 0.9826418175908964,
+  "pred": "scratch",
+  "conf": 0.9999999999999947,
+  "p_normal": 5.560385596313982e-39
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_031.png",
+  "score": 0.9287606991165116,
+  "pred": "scratch",
+  "conf": 0.9999999999923499,
+  "p_normal": 3.4719576397162037e-25
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_032.png",
+  "score": 0.9931637711115222,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 2.1640354859106605e-45
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_033.png",
+  "score": 0.9972424194093911,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.676025764732498e-50
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_034.png",
+  "score": 0.9997793189135342,
+  "pred": "scratch",
+  "conf": 0.998570931306098,
+  "p_normal": 1.6062233477361918e-49
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_035.png",
+  "score": 0.995832975058298,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.2302400281563905e-50
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_036.png",
+  "score": 0.9475765459929686,
+  "pred": "scratch",
+  "conf": 0.9999999999999547,
+  "p_normal": 4.556023235701614e-30
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_037.png",
+  "score": 0.9846923665734141,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.3755619519830631e-40
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_038.png",
+  "score": 0.9709360014384881,
+  "pred": "scratch",
+  "conf": 0.999999999999762,
+  "p_normal": 1.9358441350153803e-34
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_039.png",
+  "score": 0.9995774181984529,
+  "pred": "scratch",
+  "conf": 0.9992842418884234,
+  "p_normal": 9.731592332507899e-47
+ },
+ {
+  "split": "train",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\scratch\\img_2_040.png",
+  "score": 0.9998956526411129,
+  "pred": "scratch",
+  "conf": 0.9035157680407465,
+  "p_normal": 9.529340108112023e-52
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_041.png",
+  "score": 0.9975739151894558,
+  "pred": "scratch",
+  "conf": 0.9802274467200466,
+  "p_normal": 3.342678651536836e-36
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_042.png",
+  "score": 0.9867642293228625,
+  "pred": "stain",
+  "conf": 0.9685318811523388,
+  "p_normal": 7.608711493961637e-23
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_043.png",
+  "score": 0.97325243230052,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 7.838142414865904e-36
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_044.png",
+  "score": 0.9954773524620025,
+  "pred": "scratch",
+  "conf": 0.7697775888320493,
+  "p_normal": 6.097302796940668e-30
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_045.png",
+  "score": 0.9939448920193278,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 9.042371132771871e-43
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_046.png",
+  "score": 0.9469086804721343,
+  "pred": "scratch",
+  "conf": 0.9999999999999811,
+  "p_normal": 2.7951665411258695e-27
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_047.png",
+  "score": 0.9653282242225204,
+  "pred": "scratch",
+  "conf": 0.9999999999999998,
+  "p_normal": 2.495468333969182e-35
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_048.png",
+  "score": 0.9998111385053874,
+  "pred": "scratch",
+  "conf": 0.9987002251160961,
+  "p_normal": 8.20055983289176e-50
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_049.png",
+  "score": 0.9795170680392589,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 1.7928833093158652e-29
+ },
+ {
+  "split": "val",
+  "cls": "scratch",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\scratch\\img_2_050.png",
+  "score": 0.9948194139802152,
+  "pred": "scratch",
+  "conf": 1.0,
+  "p_normal": 6.703147074717056e-47
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_001.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 3.9266443340931193e-162
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_002.png",
+  "score": 0.9450608153405087,
+  "pred": "scratch",
+  "conf": 0.9999999997795053,
+  "p_normal": 1.929235912369034e-27
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_003.png",
+  "score": 0.9999789891124253,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 4.824568298639667e-50
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_004.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.8487828757762154e-134
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_005.png",
+  "score": 0.9999787622764243,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 7.244054671515405e-50
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_006.png",
+  "score": 0.9997379512140895,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.8155602387514206e-39
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_007.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.130610720094729e-235
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_008.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 6.864855845848826e-182
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_009.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 3.773101510320363e-189
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_010.png",
+  "score": 0.9980585017341875,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.245865875579744e-27
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_011.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.7094197486869494e-108
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_012.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 5.976129555035191e-140
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_013.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.3666244893484738e-217
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_014.png",
+  "score": 0.999999445594311,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 5.262527206280775e-69
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_015.png",
+  "score": 0.9999662085252433,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 9.769338484662441e-48
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_016.png",
+  "score": 0.9989996272018815,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.7220611961636142e-31
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_017.png",
+  "score": 0.9939724183151535,
+  "pred": "stain",
+  "conf": 0.7923453957122516,
+  "p_normal": 1.5947377617345428e-25
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_018.png",
+  "score": 0.9926674815550589,
+  "pred": "stain",
+  "conf": 0.9988283452720506,
+  "p_normal": 3.4479691504557707e-25
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_019.png",
+  "score": 0.9999912428284178,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 5.511556888282662e-54
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_020.png",
+  "score": 0.9980585017341875,
+  "pred": "stain",
+  "conf": 0.8337466078907555,
+  "p_normal": 2.960433550965862e-33
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_021.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.2034107870358655e-256
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_022.png",
+  "score": 0.9998121498094952,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 7.138570718541907e-40
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_023.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 7.836410786079163e-219
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_024.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.5232716694921003e-96
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_025.png",
+  "score": 0.9999842772631236,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 3.3081941405298335e-51
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_026.png",
+  "score": 0.9883956568205874,
+  "pred": "scratch",
+  "conf": 0.96624570863642,
+  "p_normal": 6.99617756484856e-26
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_027.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.668613813115668e-272
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_028.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 4.148714736512914e-136
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_029.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 6.966173001925062e-161
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_030.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 8.922472929616377e-176
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_031.png",
+  "score": 0.9997098076105225,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.6138870439641462e-37
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_032.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 9.752338709377835e-95
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_033.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.568451449135487e-262
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_034.png",
+  "score": 0.9991798639103237,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.3128250866622625e-32
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_035.png",
+  "score": 0.8635703673123791,
+  "pred": "stain",
+  "conf": 0.5364736498866898,
+  "p_normal": 9.85056990774106e-10
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_036.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.7417558836526563e-218
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_037.png",
+  "score": 0.9998913649847635,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 4.4590810099763806e-42
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_038.png",
+  "score": 0.9999900651629852,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.63612259878333e-56
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_039.png",
+  "score": 0.9999995479151589,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.8612595411672544e-68
+ },
+ {
+  "split": "train",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\train\\stain\\img_3_040.png",
+  "score": 0.9999945256457894,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 8.192485838677393e-68
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_041.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 3.382893070712785e-217
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_042.png",
+  "score": 0.9999965961520859,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.096711338605496e-62
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_043.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.0622021341788402e-233
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_044.png",
+  "score": 0.9996888289463454,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 3.861468600434247e-37
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_045.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 2.7068435908878863e-84
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_046.png",
+  "score": 0.9999743716675091,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 6.294831933508771e-49
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_047.png",
+  "score": 0.9995624100126386,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.735748526558235e-35
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_048.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 9.3004521817042e-296
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_049.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.9790201833517765e-107
+ },
+ {
+  "split": "val",
+  "cls": "stain",
+  "path": "C:/Users/wuxuanting/Downloads/创新实践/创新实践/dataset\\images\\val\\stain\\img_3_050.png",
+  "score": 0.9999996940976795,
+  "pred": "stain",
+  "conf": 1.0,
+  "p_normal": 1.8013055816180393e-72
+ }
+]
